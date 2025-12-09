@@ -124,7 +124,7 @@ A lightweight Flask API that bridges the frontend and the Agent. It handles sess
 
 A single-page application using Tailwind CSS. It polls the Flask API to render the chat history, the visual 4-year schedule, and the audit findings.
 
-## ⚠️ Troubleshooting
+## Troubleshooting
 
   * **Import Errors:** If you see `ImportError: cannot import name ... from AcademicAgent`, ensure `IS_AGENT_MOCKED` is set to `False` in `app.py` and that all data files are present.
   * **Azure Errors:** If you get authentication errors, double-check your `config.py` against your Azure OpenAI resource settings.
