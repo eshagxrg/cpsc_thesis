@@ -1,5 +1,5 @@
 # Yale CourseMap: AI-Based Academic Planner
-Yale Senior Thesis for the Department of Computer Science by Esha Garg
+A Yale Senior Thesis for the Department of Computer Science by Esha Garg.
 
 CourseMap is an AI-powered academic planning tool designed to help students generate, visualize, and refine 4-year course schedules. It combines a Retrieval-Augmented Generation (RAG) system with a deterministic rule engine to ensure plans align with official Yale degree requirements while catering to personal academic interests.
 
