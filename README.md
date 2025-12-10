@@ -110,7 +110,7 @@ yale-coursemap/
       * The agent will extract your interests and propose a plan.
       * You can ask it to refine the plan, e.g., *"Add more writing electives in Year 2."*
 
-## System Components
+## Key System Components
 
 ### `AcademicAgent.py`
 
@@ -126,6 +126,6 @@ A single-page application using Tailwind CSS. It polls the Flask API to render t
 
 ## Troubleshooting
 
-  * **Import Errors:** If you see `ImportError: cannot import name ... from AcademicAgent`, ensure `IS_AGENT_MOCKED` is set to `False` in `app.py` and that all data files are present.
+  * **Import Errors:** If you see `ImportError: cannot import name ... from AcademicAgent`, ensure `IS_AGENT_MOCKED` is set to `False` in `app.py` and that all data files are present (especially config.py). 
   * **Azure Errors:** If you get authentication errors, double-check your `config.py` against your Azure OpenAI resource settings.
   * **Vector Store Issues:** If the app crashes on startup regarding `course_index_storage_new`, try deleting that folder and restarting the app to force a rebuild of the index.
