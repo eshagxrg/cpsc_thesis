@@ -1,0 +1,165 @@
+160            Yale College Programs of Study 2025–2026
+Applied Mathematics
+Director of undergraduate studies: John Wettlaufer (john.wettlaufer@yale.edu);
+associate director of undergraduate studies: Ian Adelstein (ian.adelstein@yale.edu)
+Mathematical models are widely used throughout natural science, social science, 
+and engineering in ﬁelds as diverse as physics, bioinformatics, robotics, image 
+processing, and economics. Despite the broad range of mathematical settings and 
+applications, there exists a core of essential concepts and techniques used in addressing 
+most problems. The Applied Mathematics major provides a foundation in these 
+mathematical techniques and prepares the student to use them in a substantive ﬁeld of 
+application.
+The interdisciplinary major permits a great deal of ﬂexibility in design. It is intended 
+to appeal to students who wish to study the more mathematical aspects of science 
+or engineering, as well as those whose primary interest is in mathematics and 
+statistics and who wish to become acquainted with applications. Core courses are 
+drawn from Computer Science, Mathematics, Statistics and Data Science, and
+Engineering and Applied Science. Courses applying mathematics may be drawn from 
+participating programs in Applied Physics; Astronomy & Astrophysics; the biological 
+sciences, including Ecology and Evolutionary Biology, Molecular Biophysics and 
+Biochemistry, and Molecular, Cellular, and Developmental Biology; Chemistry;
+Economics ; the various programs in engineering, including Biomedical Engineering,
+Chemical Engineering, Electrical Engineering, Environmental Engineering, and
+Mechanical Engineering; Earth and Planetary Sciences; Physics; and even Linguistics
+and Political Science. The Applied Mathematics degree program requires a three-course 
+concentration in a ﬁeld in which mathematics is used.
+Students in the major are often sought after by graduate programs in either Applied 
+Mathematics or in the disciplines in which they choose their concentration, as well as 
+by industries and startup companies in which their breadth of quantitative skills are 
+essential and often unique.
+Students may pursue a major in Applied Mathematics as one of two majors and can 
+thereby equip themselves with mathematical modeling skills while being fully engaged 
+in a ﬁeld of application. In this case, the concentration requirement of the Applied 
+Mathematics program is ﬂexible in order to recognize the contribution of the other 
+major. A two-course overlap is permitted to satisfy the requirements of the two majors.
+Frequently Asked Questions/uni2002Students are encouraged to consult the Applied 
+Mathematics FAQ for more details about courses and policies in the major.
+Prerequisite and Introductory Courses□
+Multivariable calculus and linear algebra are required and should be taken before 
+or during the sophomore year. This requirement may be satisﬁed by MATH 1200
+or ENAS 1510, and MATH 2220  or 2250 or 2260. Computer programming skills are 
+also required and may be acquired by taking ENAS 1300 or CPSC 1001  . Details 
+of individual programs must be worked out in consultation with the director of 
+undergraduate studies (DUS), whose signed permission is required.Applied Mathematics         161
+Requirements of the Major
+The B.A. degree program/uni2002The program requires eleven term courses beyond the 
+prerequisites, including the senior project, comprising a coherent program:
+1. A course in diﬀerential equations (ENAS 1940 or MATH 2460 )
+2. A course in probability ( S&DS 2410  or S&DS 2380 )
+3. A course in data analysis (S&DS 3610  or S&DS 2300 )
+4. A course in discrete mathematics (AMTH 2440  or CPSC 2020 )
+5. Courses in at least three of the following areas* (with DUS approval) including, but 
+not limited to:
+(a) optimization: AMTH 4310 , 4370, EENG 433 , 4000, CPSC 4850 , S&DS 4320
+(b) probability and statistics: S&DS 2420 , 3120, 3510, 3640, 4000, 4100, 4110, 4250,
+ECON 2136, APHY 4700
+(c) partial diﬀerential equations and analysis: MATH 2470 , 2550, 2560, 2600, 3020,
+3050, 3100, 3200, 3250, 4470, AMTH 4280
+(d) algorithms and numerical methods: CPSC 3650 , 3660, 4240, 4371, 4410, 4650,
+4660, 4670, 4680, 4690, 6400, ENAS 4400, ENAS 4410
+(e) graph theory: AMTH 3620 , AMTH 4200 , 5620, MATH 7990 , CPSC 4620
+(f) mathematical economics: ECON 2125, 2126, 3350, 3351, 4417, 4428, 4433, 2251, 4471,
+CPSC 4550
+(g) electrical engineering:   ECE 4390 , AMTH 3420 , S&DS 3640
+(h) data mining and machine learning: S&DS 2620 , 2660, 3650, 6690, 6710,
+6850, CPSC 4391 , 4520, 4530, 4700, 4740, 4770, 3810, 4830, 4860, 4880, 7450,
+AMTH 5520 , AMTH 2320
+(i) biological modeling and computation: CPSC 4530 , 4750, 4760, BENG 3400 , 4450,
+BENG 4580 , PSYC 2658
+(j) physical sciences: ASTR 3200, 4200, CHEM 3330 **, EPS 3220, 3230, 4210, 4280,
+4560, 5290, 6590, 3430, 3440, 4010, 4020, 4100, 4120, 4500, 4300, 4400, 4410, 4420,
+APHY 4390 , 4480
+(k) engineering: MENG 2311 , 2615, 3422, 3465, 3323, 4463, 4469, CENG 3010 , 3150,
+BIS 555
+(l) mathematical linguistics: LING 2249 , LING 2270 , LING 3800
+(m) mathematical philosophy: PHIL 2267 , 4427, MATH 2700
+* Because departmental curricula from which the program draws regularly change, the 
+DUS maintains a more exhaustive list of courses and areas satisfying this particular 
+requirement. Additionally, due to rapid advances in many areas, these categories are 
+often ﬂuid, and their union can evolve. In order to accommodate this ﬂuidity, students 
+are strongly encouraged to revisit their program of study each term and share their
+checklist with the DUS. Students can independently and systematically plan multiple 162            Yale College Programs of Study 2025–2026
+routes toward completion of the major by using the checklist and the master list of 
+courses.
+** Chemistry courses numbered 410 and above may count as a breadth requirement 
+(either 1 full-term 1 credit course or 2 half-credit courses) with permission of the DUS.
+6. At least three advanced courses in a ﬁeld of concentration involving the application of 
+mathematics to that ﬁeld. The standard way to form a concentration is to take three 
+courses all from the same breadth (a)-(m) category from item 5 above, at least two 
+of which are level 3000+. Any concentration that deviates from this standard formula 
+must be worked out in consultation with, and approved by, the DUS. 
+Alternatively, when two majors are undertaken, if the second major is in a participating 
+program, then, recognizing that there can be an overlap of two courses, the student may 
+take for the remaining concentration course an additional choice relevant to the Applied 
+Mathematics major such as those listed in point 5 above or for the B.S. degree below. 
+Details of a student's program to satisfy the concentration requirement must be worked 
+out in consultation with, and approved by, the DUS.
+The B.S. degree program/uni2002In addition to the courses indicated for the B.A. degree, the 
+B.S. degree, which totals fourteen term courses beyond the prerequisites and includes 
+the senior requirement, must also include the three items listed below.
+1. A vector analysis course (MATH 3020  or MATH 3050 ). MATH 3100 , 3200, 3250, and
+4470 and those 3000+ level courses listed under "(c) partial diﬀerential equations and 
+analysis" can act as replacements.
+The course selected may not be counted toward the requirements for the major under 
+item 5 above. (MATH 3500  and MATH 4400  can in speciﬁc cases be considered in 
+consultation with the DUS.) 
+2. An additional course selected from item 5 above.
+3. Another course numbered 3000 or higher selected from item 5 above, or a course 
+numbered 3000 or higher in mathematics, applied mathematics, statistics, or 
+quantitative computer science or engineering, or as approved by the DUS.
+Alternatively, students may petition to receive a B.S. in Applied Mathematics by 
+fulﬁlling the B.A. requirements in Applied Mathematics and the B.S. requirements in 
+another program.
+Credit/D/Fail/uni2002No more than one course taken Credit/D/Fail may be applied toward 
+the requirements of the major.
+Distinction in the major Earn a grade of A or A– in at least 9/11 of the non-prerequisite 
+courses in the Applied Math B.A., or at least 11/14 of the non-prerequisite courses in 
+the B.S. One of those A’s or A–’s must come from AMTH 4900 or AMTH 4910, with 
+the rest coming from core, concentration, and/or breadth courses. Grades of Cr in 
+classes taken Cr/D/F count as non-A grades. Grades earned in prerequisite courses 
+(multivariable calculus, linear algebra, and programming), and grades of P or W, do 
+not count in the calculation.Applied Mathematics         163
+Outside credit Courses taken at another institution or during an approved summer or 
+term-time study abroad program may count toward the major requirements with DUS 
+approval.
+Senior Requirement
+Both the B.A. and B.S. degree programs require a senior thesis research project 
+(AMTH 4910 ).
+SUMMARY OF MAJOR REQUIREMENTS
+Prerequisites/uni2002MATH 1200  or ENAS 1510, and MATH 2220  or 2250 or 2260, or 
+equivalents; ENAS 1300, or CPSC 1001
+Number of courses/uni2002B.A.—11 term courses beyond prereqs (incl senior req); B.S.—14 
+term courses beyond prereqs (incl senior req)
+Speciﬁc courses required/uni2002B.A.—ENAS 1940 or MATH 2460 ; S&DS 2410  or
+S&DS 2380 ; S&DS 3610  or S&DS 2300 ; AMTH 2440  or CPSC 2020 ; B.S.—same as
+B.A. degree
+Distribution of courses/uni2002 B.A.—at least 3 advanced courses in a concentration 
+concerning the application of math to that ﬁeld; 3 addtl courses, as speciﬁed; B.S.—
+same as B.A. degree, plus MATH 3020  or 3050 (or MATH 3500  and 4400 with DUS 
+approval), with 2 addtl courses, as speciﬁed
+Senior requirement/uni2002Senior thesis research project (AMTH 4910 )
+FACULTY ASSOCIATED WITH THE PROGRAM OF APPLIED MATHEMATICS
+Professors/uni2002Andrew Barron (Statistics & Data Science), David Bercovici (Earth & 
+Planetary Sciences), Donald Brown ( Emeritus) (Economics, Mathematics), Joseph 
+Chang (Statistics & Data Science), Ronald Coifman (Mathematics), Michael Fischer 
+(Computer Science ), Igor Frenkel (Mathematics), Anna Gilbert (Mathematics, Statistics 
+& Data Science ), Roger Howe (Emeritus) (Mathematics), Peter Jones (Mathematics), 
+John Laﬀerty (Statistics & Data Science), A. Stephen Morse (Electrical Engineering ), 
+Corey O'Hern (Mechanical Engineering & Materials Science), David Pollard (Statistics & 
+Data Science ), Nicholas Read (Physics, Applied Physics), Vladimir Rokhlin (Computer 
+Science, Mathematics), John Schotland (Mathematics), Peter Schultheiss (Emeritus) 
+(Electrical Engineering ), Martin Schultz (Emeritus) (Computer Science ), Mitchell 
+Smooke (Mechanical Engineering & Materials Science, Applied Physics), Daniel Spielman 
+(Computer Science, Statistics & Data Science), Mary-Louise Timmermans (Earth & 
+Planetary Sciences), Van Vu (Mathematics), Günter Wagner (Ecology & Evolutionary 
+Biology), John Wettlaufer (Earth & Planetary Sciences, Mathematics, Physics), Huibin 
+Zhou (Statistics & Data Science), Steven Zucker (Computer Science, Biomedical 
+Engineering )
+Associate Professors/uni2002John Emerson (Statistics & Data Science), Thierry Emonet 
+(Molecular, Cellular, & Developmental Biology, Physics), Josephine Hoh (Epidemiology 
+& Public Health), Yuval Kluger (Pathology), Michael Krauthammer (Pathology), Smita 
+Krishnaswamy (Genetics, Computer Science ), Sekhar Tatikonda (Electrical Engineering, 
+Statistics & Data Science), Madhusudhan Venkadesan (Mechanical Engineering & 
+Materials Science)164            Yale College Programs of Study 2025–2026
+J. W. Gibbs Assistant Professors/uni2002Yariv Aizenbud, Abinand Gopal, Erik Hiltunen, Boris 
+Landa, Kevin O'Neill

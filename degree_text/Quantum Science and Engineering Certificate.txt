@@ -1,0 +1,43 @@
+Quantum Science and Engineering Certiﬁcate          431
+Quantum Science and Engineering Certiﬁcate
+Certiﬁcate director: Yongshan Ding (yongshan.ding@yale.edu)
+Q
+uantum information science and engineering explores how the principles of quantum 
+mechanics can be harnessed to encode, manipulate, process, learn, and distribute 
+information in fundamentally novel ways. This rapidly evolving ﬁeld unites experts 
+from physics, computer science, engineering, chemistry, and material science to develop 
+revolutionary technologies in computing, simulation, sensing, timing, and networking, 
+promising transformative impacts across society.
+REQUIREMENTS
+See Links to the attributes indicating courses approved for the certiﬁcate requirements.
+Students must complete ﬁve courses (5 credits), one of which must be PHYS 3450 or 
+CPSC 4470. The remaining four courses may be chosen from courses oﬀered by the 
+Applied Physics, Chemistry, Computer Science, Electrical Engineering, Global Aﬀairs, 
+Mathematics, Physics, or Statistics & Data Science departments. Courses that fulﬁll the 
+requirements of the certiﬁcate carry the YC Quantum Elective attribute. The minimum 
+grade for all courses is a C.
+No more than two course credits may overlap in the fulﬁllment of the requirements 
+of the Quantum Science & Engineering Certiﬁcate and of a major, a simultaneous 
+degree, or another certiﬁcate. In addition to the Yale College course overlap policy, 
+students earning this certiﬁcate may not overlap any 1000/2000 level courses; only 
+two 3000+ level courses may overlap. Additionally, no course credit may be applied 
+toward the requirements of more than two curricular programs. For example, the 
+same course credit may not be used to fulﬁll the requirements of two certiﬁcates and 
+a major. Approved graduate and professional school courses may count toward the 
+certiﬁcate. Non-Yale courses may not count toward the certiﬁcate. Students are also 
+encouraged to participate in the following optional activities:
+•Join the Yale Undergraduate Quantum Computing group (YuQC)
+•Participate in YdQC and other quantum hacakathons
+•Attend colloquia oﬀered by the Yale Quantum Institute
+•Tour the Yale Quantum Institute laboratories
+Credit/D/Fail/uni2002 No course taken Credit/D/Fail may be applied toward the requirements 
+of the certiﬁcate.
+Declaration of Candidacy
+Students must declare their intent to earn a certiﬁcate by the last day of add/drop 
+period in their ﬁnal term of enrollment. This is done on the Declare Major, Concentration 
+within the Major, Certiﬁcate  page on Yale Hub. Once declared, Degree Audit will track 
+students' progress toward completion of the certiﬁcate.
+Summary of requirements
+Number of courses/uni20025 course credits
+Distribution of courses/uni2002PHYS 3450 or CPSC 4470  and 4 electives that carry the YC 
+Quantum Elective attribute

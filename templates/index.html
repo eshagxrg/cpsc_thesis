@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yale CourseMap Academic Planner</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'yale-blue': '#00356B',
+                        'yale-light-blue': '#D2E3FC', // New light blue for accents
+                        'yale-light': '#F8F8F8',
+                        // Custom subtle color for Audit Findings
+                        'audit-bg-caution': '#FFFBEB', /* Yellow-50 (For NOT MET / General Review) */
+                        'audit-border-caution': '#FBBF24', /* Amber-400 */
+                        'audit-text-caution': '#B45309', /* Amber-700 */
+                        // Custom subtle color for Success
+                        'audit-bg-success': '#E6FFFA', /* Teal-50 (Lighter success color) */
+                        'audit-border-success': '#38B2AC', /* Teal-400 */
+                        'audit-text-success': '#2C7A7B', /* Teal-700 */
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <style>
+        /* Custom scrollbar for aesthetics */
+        .scrollbar-custom::-webkit-scrollbar {
+            width: 6px;
+        }
+        .scrollbar-custom::-webkit-scrollbar-thumb {
+            background-color: #d1d5db; /* gray-300 */
+            border-radius: 3px;
+        }
+        .scrollbar-custom::-webkit-scrollbar-track {
+            background-color: #f3f4f6; /* gray-100 */
+        }
+        
+        /* Subtle SVG Pattern Background for white elements (Major, Interests, Plan) */
+        .bg-white {
+            background-color: white;
+            /* **ACTION REQUIRED:** REPLACE THE STRING BELOW with your URL-encoded sml-watercolor.svg content. */
+            background-image: url("data:image/svg+xml,REPLACE_THIS_TEXT_WITH_YOUR_URL_ENCODED_SML_WATERCOLOR_SVG_CONTENT");
+            background-size: 6px 6px;
+        }
+
+        /* Fixed Proportions for Main Layout */
+        /* Set Chat and Plan columns to maintain exactly 50% width each */
+        .main-chat-plan-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr; /* 1fr is equal to 50% */
+        }
+
+        /* Custom style to allow the reason text to wrap while preserving width */
+        .course-reason {
+            word-break: break-word; /* Allows long words to break */
+            text-align: right;
+            line-height: 1.2;
+            min-width: 0;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 font-sans h-screen flex">
+
+    <!-- Sidebar (Saved Plans) -->
+    <div id="sidebar" class="w-64 bg-yale-blue text-white flex flex-col shadow-lg transition-all duration-300 flex-shrink-0">
+        <div class="p-6 border-b border-yale-light-blue/30">
+            <h1 class="text-2xl font-bold text-yale-light-blue">Yale CourseMap</h1>
+            <p class="text-sm opacity-75">Academic Planner</p>
+        </div>
+        <div class="p-4">
+            <button onclick="startNewPlan()" class="w-full bg-yale-light-blue text-yale-blue font-semibold py-2 rounded-lg hover:bg-sky-200 transition-colors shadow-md">
+                + Start New Plan
+            </button>
+        </div>
+        <div id="plan-list" class="flex-grow overflow-y-auto scrollbar-custom p-4 space-y-2">
+            <!-- Plans will be rendered here -->
+            <div class="text-center text-sm text-white/50 py-4">Loading plans...</div>
+        </div>
+    </div>
+
+    <!-- Main Content (Chat and Plan View) -->
+    <div class="flex-grow flex flex-col bg-white">
+        <!-- Header: Light Blue Background -->
+        <header class="p-4 border-b-2 border-yale-light-blue shadow-sm bg-yale-light-blue flex justify-between items-center">
+            <h2 class="text-xl font-semibold text-yale-blue">Chat: <span id="current-plan-major" class="font-normal text-gray-700">New Session</span></h2>
+            <div class="flex items-center space-x-2 text-sm text-gray-500">
+                <span id="current-plan-id" class="hidden">new</span>
+                <span id="current-plan-date"></span>
+            </div>
+        </header>
+
+        <!-- Main Chat/Plan Area: Using fixed grid proportions -->
+        <div class="flex-grow main-chat-plan-grid overflow-hidden">
+            <!-- Chat Window (Column 1) -->
+            <div class="flex flex-col border-r overflow-hidden">
+                <div id="chat-messages" class="flex-grow overflow-y-auto scrollbar-custom p-6 space-y-4">
+                    <!-- Messages will be rendered here -->
+                </div>
+                <!-- Input Box -->
+                <div class="p-4 border-t bg-gray-50 flex-shrink-0">
+                    <form id="chat-form" class="flex">
+                        <input type="text" id="user-input" placeholder="Ask about your Yale major, courses, or plan..." class="flex-grow p-3 border border-gray-300 rounded-l-lg focus:ring-2 focus:ring-yale-blue focus:border-yale-blue transition-all" required>
+                        <button type="submit" id="send-button" class="bg-yale-blue text-white px-6 py-3 rounded-r-lg font-semibold hover:bg-blue-800 transition-colors disabled:opacity-50">
+                            Send
+                        </button>
+                    </form>
+                </div>
+            </div>
+            
+            <!-- Plan/State Visualization Area (Column 2) -->
+            <div class="p-6 overflow-y-auto scrollbar-custom bg-yale-light/50">
+                <h3 class="text-lg font-bold mb-4 text-yale-blue border-b pb-2">Academic Plan & Status</h3>
+                
+                <div class="space-y-4">
+                    <!-- Major Card -->
+                    <div class="bg-white p-4 rounded-xl shadow-md border-l-4 border-yale-blue">
+                        <p class="font-semibold text-gray-700 mb-1">Major:</p>
+                        <p id="plan-major" class="text- font-bold text-yale-blue">---</p>
+                    </div>
+
+                    <!-- Interests -->
+                    <div class="bg-white p-4 rounded-xl shadow-md border-l-4 border-yale-blue">
+                        <p class="font-semibold text-gray-700 mb-2">Interests</p>
+                        <p class="text-sm font-medium text-gray-500 mb-1">Major Focus:</p>
+                        <div id="plan-major-interests" class="flex flex-wrap gap-2 text-sm">
+                            <span class="text-gray-400">Not defined</span>
+                        </div>
+                        <p class="text-sm font-medium text-gray-500 mt-3 mb-1">General:</p>
+                        <div id="plan-general-interests" class="flex flex-wrap gap-2 text-sm">
+                            <span class="text-gray-400">Not defined</span>
+                        </div>
+                    </div>
+
+                    <!-- 4-Year Plan -->
+                    <div class="bg-white p-4 rounded-xl shadow-md border-l-4 border-yale-blue">
+                        <p class="font-semibold text-gray-700 mb-2">4-Year Course Schedule</p>
+                        <div id="plan-schedule" class="space-y-4 text-sm">
+                            <div class="text-gray-400">No plan generated yet. Ask the chatbot to "generate plan" once you have defined your major and interests.</div>
+                        </div>
+                    </div>
+
+                    <!-- Audit Findings (MOVED BELOW PLAN, updated color logic in JS) -->
+                    <div id="audit-card" class="bg-audit-bg-caution p-4 rounded-xl shadow-md hidden border-l-4 border-audit-border-caution">
+                        <p class="font-bold text-audit-text-caution mb-2 flex items-center" id="audit-header">
+                            <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7 4a1 1 0 11-2 0 1 1 0 012 0zm-1-9a1 1 0 00-1 1v4a1 1 0 102 0V6a1 1 0 00-1-1z" clip-rule="evenodd"></path></svg>
+                            Audit Findings (Areas for Review)
+                        </p>
+                        <ul id="plan-audit-findings" class="list-disc list-inside text-sm text-audit-text-caution space-y-1">
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentPlanId = 'new';
+        let isFetching = false;
+
+        // Inject the initial plan ID passed from Flask. 
+        // This will be the ID of the latest saved plan, or 'new'.
+        const initialPlanId = '{{ initial_plan_id }}';
+
+        document.addEventListener('DOMContentLoaded', () => {
+            
+            // 1. Conditional Load: Load the latest plan if one exists, otherwise start new.
+            if (initialPlanId && initialPlanId !== 'new') {
+                currentPlanId = initialPlanId;
+                loadPlan(currentPlanId); 
+            } else {
+                // If no plans exist, initialize 'new' session state
+                startNewPlan();
+            }
+
+            // ********************************************
+            // FIX: Ensure the plan list is fetched regardless
+            //      of whether we are loading an old plan or starting a new one.
+            // ********************************************
+            fetchPlans(); 
+
+            document.getElementById('chat-form').addEventListener('submit', handleChatSubmit);
+        });
+
+        // --- API & State Management ---
+
+        async function fetchPlans() {
+            try {
+                // Use 'api/plans' (no leading dot/slash)
+                const response = await fetch('api/plans');
+                const plans = await response.json();
+                renderPlanList(plans);
+            } catch (error) {
+                console.error('Error fetching plans:', error);
+                document.getElementById('plan-list').innerHTML = '<div class="text-center text-sm text-red-300 py-4">Failed to load plans. Is the Flask server running?</div>';
+            }
+        }
+
+        async function loadPlan(planId) {
+            if (isFetching) return;
+            isFetching = true;
+            
+            // Highlight the selected plan in the sidebar
+            document.querySelectorAll('.plan-item').forEach(el => el.classList.remove('bg-yale-light-blue/40', 'bg-yale-yellow/20'));
+            const selectedItem = document.getElementById(`plan-item-${planId}`);
+            if (selectedItem) selectedItem.classList.add('bg-yale-light-blue/40');
+            
+            // Set plan context
+            currentPlanId = planId;
+            document.getElementById('current-plan-id').textContent = planId;
+            document.getElementById('current-plan-major').textContent = 'Loading...';
+            document.getElementById('chat-messages').innerHTML = '<div class="text-center text-gray-500">Loading plan history...</div>';
+
+            try {
+                // Use `api/load_plan/` (no leading dot/slash)
+                const response = await fetch(`api/load_plan/${planId}`);
+                const state = await response.json();
+                
+                // Update UI with loaded state
+                renderState(state);
+                
+                // Fetch the plan list again to ensure we get the latest date/major from the sidebar data
+                // NOTE: fetchPlans() is now called outside this function on load, so we might not need this here, 
+                // but keeping it helps ensure fresh data after a load event.
+                const plansResponse = await fetch('api/plans');
+                const plansData = await plansResponse.json();
+                const currentPlanInfo = plansData.find(p => p.id === planId);
+
+                document.getElementById('current-plan-major').textContent = state.major || 'Unknown Major';
+                if (currentPlanInfo) {
+                    document.getElementById('current-plan-date').textContent = currentPlanInfo.date;
+                }
+                
+            } catch (error) {
+                console.error('Error loading plan:', error);
+                addMessage('ai', 'Error: Could not load the selected plan.');
+            } finally {
+                isFetching = false;
+            }
+        }
+        
+        function startNewPlan() {
+            currentPlanId = 'new';
+            document.getElementById('current-plan-id').textContent = 'new';
+            document.getElementById('current-plan-major').textContent = 'New Session';
+            document.getElementById('current-plan-date').textContent = new Date().toLocaleString();
+            document.getElementById('chat-messages').innerHTML = ''; // Clear chat
+            renderState({ messages: [], major: null, major_interests: [], general_interests: [], plan: null, auditFindings: null }); // Clear plan view
+            
+            // Re-fetch plans to remove highlighting from the sidebar
+            const listContainer = document.getElementById('plan-list');
+            listContainer.innerHTML = '<div class="text-center text-sm text-white/50 py-4">Loading plans...</div>';
+            fetchPlans(); 
+        }
+
+        // --- Rendering Functions ---
+
+        function renderPlanList(plans) {
+            const listContainer = document.getElementById('plan-list');
+            listContainer.innerHTML = '';
+            
+            if (plans.length === 0) {
+                listContainer.innerHTML = '<div class="text-center text-sm text-white/50 py-4">No saved plans yet. Start chatting to create one!</div>';
+                return;
+            }
+
+            plans.forEach(plan => {
+                const item = document.createElement('div');
+                // Use light blue for hover and selected state
+                item.className = `plan-item p-3 rounded-lg cursor-pointer hover:bg-yale-light-blue/40 transition-colors ${plan.id === currentPlanId ? 'bg-yale-light-blue/40' : ''}`;
+                item.id = `plan-item-${plan.id}`;
+                item.setAttribute('onclick', `loadPlan('${plan.id}')`);
+                item.innerHTML = `
+                    <div class="plan-info" data-major="${plan.major}" data-date="${plan.date}">
+                        <p class="font-semibold">${plan.major || 'Unknown Major'}</p>
+                        <p class="text-xs opacity-75">${plan.date}</p>
+                    </div>
+                `;
+                listContainer.appendChild(item);
+            });
+        }
+
+        function addMessage(type, content) {
+            const messagesContainer = document.getElementById('chat-messages');
+            const messageElement = document.createElement('div');
+            
+            const isUser = type === 'user';
+            // User: Yale Blue background, white text
+            const bgColor = isUser ? 'bg-yale-blue' : 'bg-gray-100'; // Change AI to softer gray (100)
+            const textColor = isUser ? 'text-white' : 'text-gray-800';
+            const alignment = isUser ? 'self-end' : 'self-start';
+            const icon = isUser ? '👤' : '🤖';
+
+            messageElement.className = `max-w-3/4 flex flex-col ${alignment} ${isUser ? 'items-end' : 'items-start'}`;
+            messageElement.innerHTML = `
+                <div class="text-xs font-semibold mb-1 ${isUser ? 'text-yale-blue' : 'text-gray-500'}">${icon} ${isUser ? 'You' : 'Yale CourseMap'}</div>
+                <div class="py-2 px-3 rounded-2xl ${bgColor} ${textColor} shadow-lg whitespace-pre-wrap ${isUser ? 'rounded-tr-lg' : 'rounded-tl-lg'}">${content}</div>
+            `;
+            messagesContainer.appendChild(messageElement);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
+        
+        function renderState(state) {
+            // 1. Render Chat History
+            document.getElementById('chat-messages').innerHTML = '';
+            (state.messages || []).forEach(m => addMessage(m.type, m.content));
+
+            // 2. Render Major
+            const major = state.major || '---';
+            document.getElementById('plan-major').textContent = major;
+            document.getElementById('current-plan-major').textContent = major === '---' ? 'New Session' : major;
+
+            // 3. Render Interests
+            const renderInterests = (containerId, interests) => {
+                const container = document.getElementById(containerId);
+                container.innerHTML = '';
+                if (interests && interests.length > 0) {
+                    interests.forEach(i => {
+                        const span = document.createElement('span');
+                        // Use light blue for interest tags
+                        span.className = 'px-3 py-1 bg-yale-light-blue text-yale-blue rounded-full font-medium';
+                        span.textContent = i;
+                        container.appendChild(span);
+                    });
+                } else {
+                    container.innerHTML = '<span class="text-gray-400">Not defined</span>';
+                }
+            };
+            renderInterests('plan-major-interests', state.major_interests);
+            renderInterests('plan-general-interests', state.general_interests);
+            
+            // 4. Render Schedule (Detailed)
+            const scheduleContainer = document.getElementById('plan-schedule');
+            scheduleContainer.innerHTML = '';
+            if (state.plan && state.plan.length > 0) {
+                const terms = {};
+                // The plan courses should ideally include 'title' and 'professor' fields 
+                // in addition to 'course_id', 'year', 'term', and 'reason'.
+                state.plan.forEach(course => {
+                    const termKey = `${course.year} ${course.term}`;
+                    if (!terms[termKey]) {
+                        terms[termKey] = [];
+                    }
+                    terms[termKey].push(course);
+                });
+                
+                for (const termKey in terms) {
+                    const yearTermDiv = document.createElement('div');
+                    // Use light blue border for the term container
+                    yearTermDiv.className = 'mb-4 p-3 bg-gray-50 rounded-lg border-l-2 border-yale-light-blue';
+                    yearTermDiv.innerHTML = `<p class="font-bold text-gray-800 mb-2">${termKey.replace('FA', 'Fall').replace('SP', 'Spring')} (Year ${terms[termKey][0].year})</p>`;
+                    
+                    const ul = document.createElement('ul');
+                    terms[termKey].forEach(course => {
+                        // Use course.title, course.professor, and course.reason
+                        const title = course.title || 'No Title Available';
+                        const professor = course.professor && course.professor !== 'null' ? course.professor : null;
+                        
+                        const li = document.createElement('li');
+                        li.className = 'flex flex-col text-gray-700 py-2 border-b last:border-b-0';
+                        li.innerHTML = `
+                            <div class="flex items-start justify-between mb-1">
+                                <!-- 60% Course Title, allowing words to break -->
+                                <span class="font-semibold text-yale-blue w-7/12 break-words">${course.course_id} - ${title}</span>
+                                <!-- 40% Reason Tag: Use rounded-lg/rounded-xl instead of rounded-full for multi-line text -->
+                                <span class="text-xs text-yale-blue bg-yale-light-blue px-2 py-1 rounded-lg w-4/12 text-right course-reason">${course.reason}</span>
+                            </div>
+                            <!-- Professor and remaining text wrap below -->
+                            ${professor ? `<p class="text-xs text-gray-500 italic">Professor: ${professor}</p>` : ''}
+                        `;
+                        ul.appendChild(li);
+                    });
+                    yearTermDiv.appendChild(ul);
+                    scheduleContainer.appendChild(yearTermDiv);
+                }
+            } else {
+                scheduleContainer.innerHTML = '<div class="text-gray-400">No plan generated yet. Ask the chatbot to "generate my 4-year plan" once you have defined your major and interests.</div>';
+            }
+            
+            // 5. Render Audit Findings (Now below the Schedule)
+            const auditContainer = document.getElementById('plan-audit-findings');
+            const auditCard = document.getElementById('audit-card');
+            const auditHeader = document.getElementById('audit-header');
+            
+            auditContainer.innerHTML = '';
+            
+            if (state.auditFindings && state.auditFindings.length > 0) {
+                let hasNotMet = false;
+                
+                // Set default caution styling
+                auditCard.className = 'bg-audit-bg-caution p-4 rounded-xl shadow-md border-l-4 border-audit-border-caution';
+                auditHeader.className = 'font-bold text-audit-text-caution mb-2 flex items-center';
+                auditHeader.innerHTML = '<svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7 4a1 1 0 11-2 0 1 1 0 012 0zm-1-9a1 1 0 00-1 1v4a1 1 0 102 0V6a1 1 0 00-1-1z" clip-rule="evenodd"></path></svg>Audit Findings (Areas for Review)';
+
+                // Process findings to check for "NOT MET" and render with appropriate color per finding
+                state.auditFindings.forEach(finding => {
+                    const lowerFinding = finding.toLowerCase();
+                    const li = document.createElement('li');
+                    
+                    let itemColor = 'text-audit-text-caution'; // Default caution color
+                    
+                    if (lowerFinding.startsWith('not met')) {
+                        hasNotMet = true;
+                        itemColor = 'text-audit-text-caution'; // Keep caution color for NOT MET
+                    } else if (lowerFinding.startsWith('met') && !lowerFinding.includes('not met')) {
+                        // Check if it's a simple MET statement without conflicting text
+                        itemColor = 'text-audit-text-success'; 
+                    }
+                    
+                    li.className = itemColor;
+                    li.textContent = finding;
+                    auditContainer.appendChild(li);
+                });
+
+                // Overall card header and styling adjustment based on findings
+                if (!hasNotMet) {
+                    auditCard.className = 'bg-audit-bg-success p-4 rounded-xl shadow-md border-l-4 border-audit-border-success';
+                    auditHeader.className = 'font-bold text-audit-text-success mb-2 flex items-center';
+                    auditHeader.innerHTML = '<svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>Audit Status (All Requirements Met)';
+                }
+
+
+                auditCard.classList.remove('hidden');
+            } else {
+                auditCard.classList.add('hidden');
+            }
+        }
+        
+        // --- Event Handlers ---
+
+        async function handleChatSubmit(event) {
+            event.preventDefault();
+            
+            const inputElement = document.getElementById('user-input');
+            const sendButton = document.getElementById('send-button');
+            const message = inputElement.value.trim();
+            
+            if (!message || isFetching) return;
+
+            addMessage('user', message);
+            inputElement.value = '';
+            sendButton.disabled = true;
+            sendButton.textContent = 'Thinking...';
+            isFetching = true;
+
+            try {
+                // Use 'api/chat' (no leading dot/slash)
+                const response = await fetch('api/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ 
+                        message: message,
+                        plan_id: currentPlanId 
+                    })
+                });
+                
+                const result = await response.json();
+                
+                // 1. Add AI response to chat
+                addMessage('ai', result.response);
+                
+                // 2. Update Plan State visualization
+                renderState(result.state);
+
+                // 3. Update Sidebar (Plan List)
+                if (result.plans) {
+                    renderPlanList(result.plans);
+                }
+                
+                // 4. Update Header and current ID if it was a 'new' session
+                if (currentPlanId === 'new') {
+                    currentPlanId = result.new_plan_id;
+                    document.getElementById('current-plan-id').textContent = currentPlanId;
+                    
+                    // Re-fetch plans to highlight the new one
+                    fetchPlans(); 
+                }
+                
+            } catch (error) {
+                console.error('Chat API error:', error);
+                addMessage('ai', 'Oops! The server encountered an error. Please check the console or ensure the Flask app is running correctly.');
+            } finally {
+                sendButton.disabled = false;
+                sendButton.textContent = 'Send';
+                isFetching = false;
+            }
+        }
+        
+    </script>
+</body>
+</html>

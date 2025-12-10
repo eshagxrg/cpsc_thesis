@@ -1,0 +1,175 @@
+356            Yale College Programs of Study 2025–2026
+Mathematics
+See also Applied Mathematics
+Directors of undergraduate studies: Richard Kenyon [spring 2025], Sebastian 
+Hurtado-Salazar [fall 2025 and spring 2026], Miki Havlickova [all semesters]; contact 
+email: math.dus@yale.edu; Math DUS website; Math department website
+Mathematics has many aspects: it is the language and tool of the sciences, a cultural 
+phenomenon with a rich historical tradition, and a model of abstract reasoning. The 
+course oﬀerings and the major in Mathematics reﬂect these multiple facets. The 
+Mathematics major provides a broad education in various areas of mathematics in a 
+program ﬂexible enough to accommodate many ranges of interest. Incoming students 
+are encouraged to visit the Math ﬁrst-year student resources website for advice about 
+choosing their mathematics courses.
+Prerequisite
+The prerequisite for both the B.A and B.S. degree programs is single variable calculus, 
+through the level of MATH 1150  or equivalent (such as a score of 4 or 5 on the AP 
+Calculus BC exam).
+CALCULUS Placement Procedures
+The department oﬀers a three-term sequence in calculus, MATH 1120 , 1150, and 1200. 
+Students who have not taken calculus at Yale and wish to enroll in calculus must take 
+the mathematics online placement examination. Detailed information is available on the
+Math ﬁrst-year student resources website. A calculus advising session will be held prior 
+to registration to answer student questions about placement.
+MATH 1120  covers diﬀerential calculus and assumes mastery of high school algebra, 
+geometry, and trigonometry. Enrolling students are expected to know the basic 
+deﬁnitions of trigonometric functions, inverse functions, factoring quadratic 
+polynomials, and elementary area and volume formulas of plane and solid geometry. 
+Students who could beneﬁt from a review of precalculus are encouraged to consider
+MATH 1100  and 1110 in place of MATH 1120 .
+The next course in the calculus sequence is MATH 1150 , which covers integral calculus, 
+including sequences and series. It assumes mastery of the content of MATH 1120  or 
+equivalent (AP Calculus AB exam).
+MATH 1200  covers multivariable calculus and assumes mastery of the material in
+MATH 1150  or equivalent (AP Calculus BC exam).
+Requirements of the Major
+See Links to the attributes indicating courses approved for Math major requirements.
+Students are held to the requirements that were in place when they declared their 
+major./uni2002However, with approval from the director of undergraduate studies (DUS), the 
+following requirements, updated for the academic year 2024-2025, may be fulﬁlled by 
+students who declared the major in a prior term.Mathematics         357
+Introductory sequence requirement/uni2002Each student is expected to complete Linear 
+algebra with proofs (MATH 2250 or 2260), Real analysis (MATH 2550 or 2560), and 
+Vector analysis or Multivariable calculus (MATH 3020 or 1200).
+B.A. degree program The B.A. degree program consists of ten term courses in 
+M
+athematics numbered 2250 or higher, including the senior requirement, but 
+excluding MATH 4700. To acquire both depth and breadth in the ﬁeld, students are 
+required to take at least three courses that carry the "math distribution" attribute 
+(YC MATH Distribution), searchable in Yale Course Search (YCS). Students are 
+also required to complete MATH 3500 (algebra), and at least one of MATH 3050
+(real analysis) or MATH 3100 (complex analysis). Taking all three is recommended. 
+With prior written permission from the DUS, students familiar with the material may 
+substitute a higher-level course in the same area (typically MATH 3700, 3200, 3150 
+respectively.)
+B.S. degree program The B.S. degree program consists of twelve term courses and 
+follows the same requirements as for the B.A. degree, with the addition of at least 
+two advanced term courses in the physical sciences, such as ASTR 4180, ASTR 4300, 
+CHEM 3330, 4700, PHYS 4010 or PHYS 4100, PHYS 4020 or PHYS 4300, PHYS 4400, 
+PHYS 4410, PHYS 4500. Other such courses require the approval of the director of 
+undergraduate studies (DUS); written approval is advised.
+Distinction in the major To be eligible for Distinction in the Major, a student must 
+have completed MATH 3050 (real analysis), MATH 3100 (complex analysis), and  
+MATH 3500 (algebra).
+The intensive major
+ Candidates for a degree with an intensive major in Mathematics 
+must take MATH 3050, 3100, and 3500. I
+ntensive majors are also expected to include 
+at least two graduate courses level 5000 or above in the Mathematics department, 
+or equivalent independent study, among their required ten mathematics courses. 
+Familiarity with the material of the following courses is prerequisite to graduate 
+courses in each category: algebra: MATH 3500 and MATH 3700; analysis: MATH 3050, 
+3100; algebraic topology: MATH 3500, 4300.
+Credit/D/Fail/uni2002No course taken Credit/D/Fail may be applied toward the requirements 
+of the major.
+Outside credit/uni2002 Courses taken after matriculation at Yale at another institution or 
+during an approved summer or term-time study abroad program may count toward the 
+major requirements with DUS approval.
+Senior Requirement
+During the senior year, students majoring in Mathematics fulﬁll the senior requirement 
+by taking any Math course numbered MATH 4800 through MATH 4890. Alternatively, 
+with the consent of the DUS, students may write a senior essay in MATH 4750 under 
+the guidance of a faculty member, which includes both a written and an oral report. 
+Students wishing to write a senior essay should consult the DUS at least six weeks 
+before enrolling in MATH 4750, and are encouraged to pursue independent study 
+opportunities prior to their senior year, for example through the Mathematics directed 
+reading program or through summer research programs.358            Yale College Programs of Study 2025–2026
+Advising
+Students interested in pursuing further study in pure mathematics should 
+include MATH 3020, 3050, 3100, 3500, 3700, and 4300 in their programs, and should 
+consider taking one or more graduate-level courses. Students interested in applications 
+of mathematics should include MATH 3020, 3100, 3500, and a selection of courses from  
+MATH 2410, 2420, 2440, 2460, 2470, 2510, 2600.
+Courses related to mathematics/uni2002 Each Mathematics major is urged to acquire 
+additional familiarity with the uses of mathematics by taking courses in Applied 
+M
+athematics, Computer Science, Engineering and Applied Science , Economics, 
+P
+hilosophy, Physics, Statistics and Data Science, or other departments. With approval 
+from the DUS
+, up to two math-intensive courses from other departments may be 
+counted among the ten courses required for the major in Mathematics.
+Graduate work/uni2002Each year the Mathematics department oﬀers a large number of 
+graduate courses, some of which are accessible to undergraduates with advanced 
+preparation in mathematics. Graduate courses numbered 5000–5999 may be counted 
+tow
+ard the requirements of the major.
+Combined B.S./M.S. degree program/uni2002Students who, by the end of their senior year, 
+complete the requirements of the department for the M.S. in Mathematics are eligible 
+to receive this degree at their Senior Commencement. Required are: (1) eight additional 
+term courses numbered 5000–9999, most of which must be completed with grades of B 
+or better; (2) passing a written qualifying examination of the student ’
+s choice from 
+analysis, algebra, or topology.
+The master's program is in no sense a substitute for the B.S. program; rather, it 
+is designed to accommodate exceptional students who, by means of accelerated or 
+independent study, can satisfy the department as to their command of the content of 
+the normal undergraduate program by the end of the junior year. Candidates must 
+contact the Mathematics DUS at least two weeks prior to the last day of classes of 
+their ﬁfth term at Yale College. Minimum eligibility criteria include at least seventy-
+ﬁve percent of A/A– grades within mathematics as well as seventy-ﬁve percent of A/
+A– grades overall. For more information on mathematics requirements, please see 
+the B.S./M.S. section of the Math major FAQ. For more information on Yale College 
+requirements for the program, see Academic Regulations, Section L, Special Academic 
+Arrangements, “Simultaneous Award of the Bachelor
+’s and Master’s Degrees.”
+Graduate classes: Undergraduate students are welcome to enroll in courses level 
+5000 and above, after completing the relevant pre-requisites. We recommend that 
+students wishing to take graduate classes begin with courses level 5000 –5999, which 
+are designed to be accessible to advanced undergraduates, and can be counted toward 
+undergraduate requirements of the major. Courses level 6000 and above cannot be 
+counted toward undergraduate requirements of the major, but they can earn graduation 
+credit, and be applied toward the graduate requirement of the intensive mathematics 
+major as well as toward the graduate requirement of the combined B.S./M.S. degree.
+SUMMARY OF MAJOR REQUIREMENTS
+Prerequisite/uni2002Single-variable calculus through MATH 1150 or equivalentMathematics         359
+Introductory sequence/uni2002 Linear algebra with proofs (MATH 2250 or MATH 2260), Real 
+analysis (MATH 2550 or MATH 2560), and Vector analysis or Multivariable calculus 
+(MATH 3020 or MATH 1200).
+Number of courses/uni2002B.A.—10 term courses numbered 2250 or higher (incl senior 
+req), excludes MATH 4700; B.S.—12 term courses numbered 2250 or higher (incl 
+se
+nior req), excludes MATH 4700
+Speciﬁc courses required/uni2002 B.A. and B.S.—MATH 3500; MATH 3050 or MATH 3100
+Distribution of courses/uni2002B.A. and B.S.— 3 courses in the Math distribution 
+c
+ategory; B.S.—at least two adv term courses in the physical sciences as approved by 
+DUS
+S
+ubstitution permitted/uni2002 With DUS permission, up to 2 math-intensive courses from 
+other depts
+Intensive major/uni2002All three of MATH 3050, 3100, 3500; 2 math grad courses level 5000 
+through 5999 or equivalent independent study counted among the required courses
+Senior requirement/uni2002 Senior seminar numbered MATH 4800 through 4890, or 
+MATH 4750 with DUS permission
+FACULTY OF THE DEPARTMENT OF MATHEMATICS
+Professors Richard Beals (Emeritus), Jeffrey Brock, Andrew Casson (Emeritus ), 
+Ronald Coifman, Igor Frenkel, Howard Garland (
+Emeritus), Anna Gilbert, Alexander 
+Goncharov, Roger Howe ( Emeritus), Peter Jones, Richard Kenyon, Ivan Losev, Gregory 
+Margulis, Yair Minsky, Vincent Moncrief, Andrew Neitzke, Hee Oh, †Nicholas Read, 
+Vladimir Rokhlin, Wilhelm Schlag, George Seligman (Emeritus), †Daniel Spielman, 
+Van Vu, Lu Wang, †John S. Wettlaufer, Gregg Zuckerman (
+Emeritus)
+J. W. Gibbs Assistant Professors Yariv Aizenbud, Pablo Boixeda Alvarez, Subhadip 
+Dey, Gurbir Dhillon, Daniel Douglas, James Farre, Abinand Gopal, Erik Orvehed 
+Hiltunen, Yakov Kononov, Boris Landa, Or Landesberg, Kevin O
+’Neill, Cosmin 
+Pohoata, Congling Qiu, Ebru T
+oprak, Franco Vargas Pallete
+Adjunct Professors Gil Kalai, Alex Lubotzky, Jacques Peyriere, Mathias Schacht
+Senior Lecturers/uni2002
+John Hall, Miki Havlickova
+Lecturers/uni2002Ian Adelstein, Mihai Alboiu, James Barnes, Rachel Diethorn, Eric Geiger, 
+Su Ji Hong, Robert McDonald, Brett Smith
+†A joint appointment with primary a ﬃliation in another department.

@@ -1,0 +1,114 @@
+234            Yale College Programs of Study 2025–2026
+Computing and the Arts
+Director of undergraduate studies: Scott Petersen (scott.petersen@yale.edu)
+Computing and the Arts is an interdepartmental major designed for students who wish 
+to integrate work in computing with work in one of ﬁve arts disciplines: architecture, 
+art, history of art, music, or theater, dance, and performance studies.
+For students with a computing perspective, issues in these disciplines present 
+interesting and substantive problems: how musicians use computers to compose; the 
+limitations of current software tools used by artists; the types of analyses done by art 
+historians; challenges in designing and using virtual sets in the theater; ways that 
+virtual worlds might help to envision new forms of artistic expression; and lessons that 
+can be learned from trying to create a robotic conductor or performer.
+For students with an artistic perspective, computing methods oﬀer a systematic 
+approach to achieving their vision. A foundation in computer science allows artists to 
+understand existing computing tools more comprehensively and to use them more 
+eﬀectively. Furthermore, it gives them insight into what fundamentally can and cannot 
+be done with computers, so they can anticipate the future development of new tools for 
+computing in their ﬁeld.
+Prerequisites 
+The prerequisite for all students in the major is CPSC 1001  which should be taken 
+during the ﬁrst year. There are two additional prerequisites for the Art concentration,
+ART 1111 and ART 1514. There are two additional prerequisites for the Theater, Dance, 
+and Performance Studies concentration, TDPS 1000  and TDPS 1001 . There are no 
+additional prerequisites for the Architecture, History of Art, or Music concentrations. 
+There is no required favorable review of studio work for admission to the major in 
+any concentration, but a sophomore review advising session is required for the Art 
+concentration.
+Requirements of the Major
+See Links to attributes indicating Computer Science courses approved for Computing 
+and the Arts major requirements.
+Twelve term courses are required beyond the prerequisites, not including the two-term 
+senior project. Six of the courses must be in Computer Science, including CPSC 2010 ,
+2020, and 2230. Students are advised to complete CPSC 2020  and 2230 by the end of the 
+sophomore year. MATH 2440  may be substituted for CPSC 2020 . The six remaining 
+courses are selected from one of the arts disciplines. Students choose a concentration in 
+architecture, art, history of art, music, or theater, dance, and performance studies. All 
+requirements for a single concentration must be satisﬁed, as speciﬁed below.
+The Architecture concentration requires the following courses in addition to the Computer 
+Science courses listed above: (1) ARCH 1001 and ARCH 2000; (2) two courses 
+from ARCH 2001, 2003, 3304, and 3305; (3) two elective courses from either of the 
+two Architecture speciﬁc concentrations: Design; or History, Theory, Criticism of 
+Architecture, and Urbanism; (4) two courses from CPSC 3760 , CPSC 4381 , 4460, 4510,
+4750, 4780, 4790, or 4840; and (5) one additional intermediate or advanced CPSC 
+course (excluding CPSC 4900 ). Computing and the Arts          235
+The Art concentration requires the following courses in addition to the Computer 
+Science courses listed above, as well as a sophomore review at the School of Art: 
+(1) two 1000-level courses beyond ART 1111 and ART 1514, such as ART 1732 and/
+or ART 1784 or ART 1985; (2) two courses in Art at the 2000 or 3000 level, such as
+ART 2985 and/or ART 3770; (3) ART 3995; (4) ART 4995; (5) two courses selected 
+from CPSC 3760 , CPSC 4381 , 4460, 4510, 4750, 4780, 4790, or 4840; (6) one additional 
+intermediate or advanced Computer Science course (excluding CPSC 4900 ). Seniors 
+following the art concentration will have access to a shared studio and many facilities in 
+the School of Art.
+The History of Art concentration requires the following courses in addition to the 
+Computer Science courses listed above: (1) one introductory, 1000-level, History 
+of Art course; (2) two History of Art courses at the 2000, 3000, or 4000 level (the 
+courses must represent two diﬀerent areas as deﬁned in the History of Art program 
+description); (3) one studio art course (students may need to take a prerequisite course 
+in Art to prepare for the studio course); (4) HSAR 4401; (5) one 4000-level seminar in 
+History of Art; (6) two courses selected from CPSC 3760 , CPSC 4381 , 4510, 4750, 4780, 
+or 4790, one of which must be CPSC 4780  or 4790; (7) one additional intermediate or 
+advanced Computer Science course (excluding CPSC 4900 ).
+The Music concentration requires the following courses in addition to the Computer 
+Science courses listed above: (1) two courses from Group I (Music Theory); (2) 
+three additional courses from Group I or Group II (Creative Practices); (3) one course 
+from Group III (Western Art Music) or Group IV (World and Popular Music); (4)
+CPSC 4310 ; (5) CPSC 4320 ; (6) one additional intermediate or advanced Computer 
+Science course (excluding CPSC 4900 ).
+The Theater, Dance, and Performance Studies concentration requires the following courses 
+in addition to the prerequisites and Computer Science courses listed above: (1) one 
+course in the Artistic Practice domain; (2) one course in the Histories domain; (3) one 
+course in the Performance Theory domain; (4) one course in the Interarts domain; (5) 
+two additional courses in any of the domains; (6) CPSC 4310  or 4320; (7) CPSC 4780 ,
+4790, or CPSC 4840 ; (8) one additional intermediate or advanced Computer Science 
+course (excluding CPSC 4900 ).
+Credit/D/Fail/uni2002No course taken Credit/D/Fail may be applied toward the requirements 
+of the major.
+Outside credit Courses taken at another institution or during an approved summer or 
+term-time study abroad program may count toward the major requirements with DUS 
+approval.
+Senior Requirement 
+The senior project requires two terms: one term of CPSC 4900 , and one term 
+of ARCH 4910, ART 4996, HSAR 4499, one from MUSI 4996–4999, or one 
+from TDPS 4701 , 4900 or 4901, depending on the concentration chosen. The project 
+must be approved by the DUS and be acceptable to both departments. Students must 
+submit a written report, including an electronic abstract and webpage(s).236            Yale College Programs of Study 2025–2026
+Advising and Approval of Program
+The entire program of each student majoring in Computing and the Arts must be 
+approved by the DUS.
+SUMMARY OF MAJOR REQUIREMENTS
+Prerequisites /uni2002All concentrations —CPSC 1001; Art concentration—ART 1111,
+ART 1514, and sophomore review; Theater, Dance, and Performance Studies 
+concentration—TDPS 1000, TDPS 1001
+Number of courses/uni200212 term courses beyond prereqs (not incl senior project)
+Speciﬁc courses required/uni2002All concentrations—CPSC 2010, 2020, 2230; Architecture
+—ARCH 1001, ARCH 2000; 2 courses from ARCH 2001, 2003, 3304, 3305;
+Art—ART 3995, ART 4995; History of Art—HSAR 4401; Music—CPSC 4310, 4320; 
+Theater, Dance, and Performance Studies—CPSC 4310 or 4320; CPSC 4780, 4790, or 
+CPSC 4840
+Distribution of courses/uni2002All concentrations—3 addtl courses in Comp Sci as speciﬁed for 
+each concentration, to incl 1 intermediate or advanced course (excluding CPSC 4900); 
+Architecture—2 courses from the Architecture speciﬁc concentrations, as speciﬁed; Art—
+2 courses in Art at 1000 level (excluding prereqs), 2 courses at 2000 or 3000 level; 
+History of Art—1 intro, 1000-level course; 2 courses in diﬀerent areas of History of Art 
+at 2000, 3000, or 4000 level, as speciﬁed; 1 sem at 4000-level in History of Art; 1 studio 
+art course; Music—2 courses from Group I (Music Theory); 3 courses from Group 
+I or Group II (Creative Practices); (3) one course from Group III (Western Art Music) 
+or Group IV (World and Popular Music); Theater, Dance, and Performance Studies —1 
+course in each of 4 domains; 2 additional courses in any domain
+Substitution permitted/uni2002 MATH 2440 for CPSC 2020
+Senior requirement/uni2002 All concentrations —Two-term senior project including CPSC 4900, 
+approved by DUS; Architecture —ARCH 4910; Art— ART 4996; History of Art
+—HSAR 4499; Music— one from MUSI 4996–4999; Theater, Dance, and Performance 
+Studies—TDPS 4701, 4900 or 4901

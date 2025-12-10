@@ -1,0 +1,65 @@
+Computer Science and Psychology         229
+Computer Science and Psychology
+Directors of undergraduate studies: Theodore Kim
+(theodore.kim@yale.edu) (Computer Science); Yarrow Dunham (Psychology)
+Computer Science and Psychology is an interdepartmental major designed for students 
+interested in integrating work in these two ﬁelds. Each area provides tools and theories 
+that can be applied to problems in the other. Examples of this interaction include 
+cognitive science, artiﬁcial intelligence, and biological perception.
+Prerequisite
+The prerequisite for the major is PSYC 1100, from which students who have scored 5 
+on the Advanced Placement test in Psychology are exempt. Beyond the prerequisite, the 
+major requires fourteen term courses as well as a senior project.
+Requirements of the Major
+Students are held to the requirements that were in place when they declared 
+their major. However, with approval from the Psychology DUS, the following 
+requirements (speciﬁcally the elimination of PSYC 2100 as a requirement), updated for 
+the academic year 2025-2026, may be fulﬁlled by students who declared the major in a 
+prior term./uni2002
+See Links to attributes indicating courses approved for Psychology major requirements.
+Eight of the fourteen required courses must be in computer science: CPSC 2010 ,
+2020, 2230, 3230, and CPSC 3650  or 3660, and three advanced computer 
+science courses in artiﬁcial intelligence (examples of such courses are those 
+in the range CPSC 4700 –CPSC 4770 , CPSC 4520 , 4530, CPSC 4810 –4890).
+CPSC 2800  and 4900 may not be counted as one of these courses. MATH 2440  may 
+substitute for CPSC 2020 . Only one of CPSC 3650  and 3660 may be taken for major 
+credit.
+The remaining six courses for the psychology requirement include one course in 
+statistics, either S&DS 1000  or S&DS 2300 , and at least one course in research methods 
+from PSYC 2100–2990; at least two psychology courses from the social science point 
+of view; and at least two courses from the natural science point of view. At least one of 
+the two psychology courses from both the social science point of view and the natural 
+science point of view must be designated as Core in the course listings. Refer to the
+Psychology program overview for a listing of courses that fulﬁll the social science and 
+natural science requirements and a description of courses designated as Core.
+With the permission of both directors of undergraduate studies (DUSs), a course in 
+cognitive psychology or cognitive science that is highly relevant to the major and that 
+is not counted as one of the six courses in psychology may substitute for one of the 
+courses in artiﬁcial intelligence.
+Credit/D/Fail/uni2002No course in Computer Science taken Credit/D/Fail may be applied 
+toward the requirements of the major; no more than one course in psychology taken 
+Credit/D/Fail may be applied toward the major requirements. No 200-level course in 
+psychology taken Credit/D/Fail may be applied toward the major requirements.230            Yale College Programs of Study 2025–2026
+Outside credit Courses taken at another institution or during an approved summer or 
+term-time study abroad program may count toward the major requirements with DUS 
+approval.
+Senior Requirement 
+Students must take either CPSC 4900  or PSYC 4990, and the project must be approved 
+by the DUS in each department.
+Advising
+The entire program of each student majoring in computer science and psychology must 
+be approved by the DUS in each department.
+SUMMARY OF MAJOR REQUIREMENTS
+Prerequisite/uni2002PSYC 1100
+Number of courses/uni200214 term courses beyond prereq (not incl senior project)
+Speciﬁc courses required/uni2002CPSC 2010 , 2020, 2230, 3230, and CPSC 3650  or
+3660; S&DS 1000  or S&DS 2300
+Distribution of courses  3 CPSC advanced AI courses; 6 PSYC courses to include 1 
+statistics course and at least 1 course from PSYC 2100–2990; at least 2 from social 
+science point of view and 2 from natural science point of view, with 1 designated Core 
+course from each, as speciﬁed
+Substitution permitted/uni2002With permission of both DUSs, and as speciﬁed: MATH 2440
+for CPSC 2020 ; 1 relevant course in cognitive psychology or cognitive science for 1 
+course in AI
+Senior requirement/uni2002CPSC 4900  or PSYC 4990, with project approved by DUS in each 
+dept

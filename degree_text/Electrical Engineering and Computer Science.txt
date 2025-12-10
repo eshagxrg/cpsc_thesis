@@ -1,0 +1,96 @@
+272            Yale College Programs of Study 2025–2026
+Electrical Engineering and Computer Science
+Directors of undergraduate studies: Rajit Manohar
+(rajit.manohar@yale.edu) (Electrical Engineering), 523 BCT, 432-4306; Theodore Kim
+(theodore.kim@yale.edu) (Computer Science), AKW 208A, 432-6400
+Electrical Engineering and Computer Science is an interdepartmental major designed 
+for students who want to integrate work in these two ﬁelds. It covers discrete and 
+continuous mathematics, algorithm analysis and design, digital and analog circuits, 
+signals and systems, systems programming, and computer engineering. It provides 
+coherence in its core program, but allows ﬂexibility to pursue technical electives.
+Prerequisites
+The prerequisites for the major are MATH 1120 , 1150 (these prerequisites may be 
+waived for students who have taken the equivalent of one year of calculus in high 
+school) and ENAS 1510 or MATH 1200  (or a higher-level course); CPSC 1001  (for 
+students without previous programming experience); and PHYS 1800 and 1810, 
+or PHYS 2000 and 2010. PHYS 1700, 1710 are acceptable for students taking
+MATH 1120 . Acceleration credits may not be used to satisfy prerequisites, and because 
+the B.S. programs in Electrical Engineering and in Engineering Sciences (Electrical) 
+both limit the use of such credits, students who wish to retain the option of switching 
+to these programs should consult the director of undergraduate studies (DUS) in 
+Electrical Engineering when planning their course schedules.
+Requirements of the Major
+The major requires ﬁfteen term courses beyond the prerequisites:
+CPSC 2010 ; 2020; 2230; 3230; and either CPSC 3650  or 3660; ECE 2000 , ECE 2011,
+ECE 2020 , and ECE 2031; one from MATH 2220 , 2250, 2260, S&DS 2380 , or
+S&DS 2410 ; four advanced electives, two in electrical engineering, two in computer 
+science; and a senior project. MATH 2440  may be substituted for CPSC 2020 . Electives 
+must be 3000- or 4000-level courses in the departments of Electrical Engineering or
+Computer Science or must be approved by the DUSs of both departments. Cross-
+titled courses may be counted either way to fulﬁll this requirement. CPSC 2900  and
+4900 may not be used as electives. Only one of CPSC 3650  and 3660 may be taken for 
+major credit. With permission of the DUSs of both departments, one of ECE 4680  or
+ECE 4691  may be used as an electrical engineering elective.
+For students who have taken the equivalent of one year of calculus in high school and 
+have some programming experience, a typical program would be:
+First-Year Sophomore Junior Senior
+ECE 2000 CPSC 2010 CPSC 2020 Senior project
+ENAS 1510 ECE 2020 CPSC 3230 One elective
+PHYS 1800
+ECE 2011 CPSC 2230 CPSC 3650 or 3660 Two electives
+PHYS 1810 ECE 2031 One elective
+MATH 2220Electrical Engineering and Computer Science          273
+Students with no programming experience should take CPSC 1001  in the fall 
+of their ﬁrst year and either postpone ECE 2000  until their sophomore year or 
+take ENAS 1510 or MATH 1200  in the spring.
+For students with one term of calculus and no programming experience, a typical 
+program would be:
+First-Year Sophomore Junior Senior
+CPSC 1001 CPSC 2010 CPSC 2020 Two electives
+MATH 1150 ECE 2000 CPSC 3230
+PHYS 1800 ECE 2020 S&DS 2410
+ECE 2011 CPSC 2230 CPSC 3650 or 3660 Senior project
+MATH 1200 ECE 2031 One elective One elective
+PHYS 1810
+For students with no calculus and no programming experience, a typical program 
+would be:
+First-Year Sophomore Junior Senior
+CPSC 1001 CPSC 2010 CPSC 2020 Two electives
+MATH 1120 ECE 2000 CPSC 3230
+PHYS 1700 ENAS 1510 ECE 2020
+ECE 2011 CPSC 2230 CPSC 3650 or 3660 Senior project
+MATH 1150 MATH 2220 ECE 2031 One elective
+PHYS 1710 One elective
+Students who start with MATH 1120  may satisfy the physics prerequisite by taking
+PHYS 1700 and 1710 in their ﬁrst year, as shown in the table above. However, because 
+the B.S. programs in Electrical Engineering and in Engineering Sciences (Electrical) do 
+not allow this substitution, students who wish to retain the option of switching to these 
+programs should postpone physics until their sophomore year.
+Credit/D/Fail No course taken Credit/D/Fail may be applied toward the requirements 
+of the major, including prerequisites.
+Outside credit Courses taken at another institution or during an approved summer or 
+term-time study abroad program may count toward the major requirements with DUS 
+approval.
+Senior Requirement
+The senior project must be completed in CPSC 4900  or ECE 4710 and/or ECE 4721, 
+depending on the adviser's department, and must be approved by the DUS in each 
+department.
+Advising and Approval of Programs
+The entire program of a student majoring in Electrical Engineering and Computer 
+Science must be approved by the DUS in each department.
+Accreditation Students interested in pursuing an ABET-accredited degree should 
+consider the B.S. program in Electrical Engineering. See Electrical Engineering.274            Yale College Programs of Study 2025–2026
+SUMMARY OF MAJOR REQUIREMENTS
+Prerequisites MATH 1120 , 1150, and ENAS 1510 or MATH 1200 ; CPSC 1001  (students 
+without previous programming experience); PHYS 1800, 1810, or PHYS 2000,
+2010 with exceptions as indicated
+Number of courses 15 term courses beyond prerequisites (including senior project)
+Speciﬁc courses required CPSC 2010 , 2020, 2230, 3230, and one of CPSC 3650  or 3660;
+ECE 2000 , ECE 2011, ECE 2020 , and ECE 2031; one from MATH 2220 , 2250, 2260,
+S&DS 2380  or 2410
+Distribution of courses  4 additional 3000- or 4000-level electives, 2 in electrical 
+engineering, 2 in computer science
+Substitution permitted MATH 2440  for CPSC 2020 ; advanced courses in other depts, 
+with permission of DUS in each department
+Senior requirement Independent project (CPSC 4900  or ECE 4710 and/or ECE 4721) 
+approved by DUS in each department

@@ -1,0 +1,191 @@
+364            Yale College Programs of Study 2025–2026
+Mechanical Engineering
+Director of undergraduate studies: Corey O’Hern (corey.ohern@yale.edu), M203 ML, 
+432-4258; se
+as.yale.edu/departments/mechanical-engineering-and-materials-science
+Mechanical engineering is among the most diversiﬁed of the traditional engineering 
+disciplines. The mechanical engineer builds machines to extend our physical and 
+mental capabilities and to convert traditional and novel energy sources into useful 
+forms.
+The role of the mechanical engineer has changed dramatically over the past few 
+decades with the extensive use of high-performance computers (in such areas as 
+computational ﬂuid dynamics, materials design, control, and manufacturing), the 
+interfacing of microelectromechanical systems and actuators via microprocessors to 
+build high-precision sensors and devices, and the advent of advanced materials (e.g., 
+composites, shape-memory alloys, ceramics, and superconductors) for new applications 
+(e.g., coatings, biomaterials, and computer storage). These areas o ﬀer mechanical 
+engineering students special opportunities for creativity, demanding that they learn 
+not only in depth but also in breadth. Demands for increased energy eﬃciency and 
+reduced environmental impact—as might be realized, for example, in novel gas turbine 
+or electric hybrid vehicles—require that students understand the fundamentals of 
+mechanics, thermodynamics, ﬂuid mechanics, combustion, and materials science. In all 
+these tasks, the utmost consideration of the modern mechanical engineer is improving 
+the quality of human life. The engineer must also be constantly aware both of the 
+ﬁniteness of Earth’s resources and its environment and of the burden that engineering 
+places on them.
+The educational mission of the Department of Mechanical Engineering is to provide 
+an excellent education that will prepare students to become members of the next 
+generation of mechanical engineers. To implement this mission, the department 
+adheres to the following set of educational objectives: to provide a balanced technical 
+and nontechnical education to enable graduates to enter highly selective graduate 
+schools and/or to pursue technical careers in industry or government laboratories; to 
+enable graduates to improve and adapt their skills to accommodate rapid technological 
+changes; to prepare graduates to communicate e ﬀectively and to understand the 
+ethical responsibilities and impact on society of their profession. To achieve these 
+objectives, the following fundamental educational goals have been established for the 
+Department of Mechanical Engineering: to provide a comprehensive introduction to 
+basic science and mathematics, which form the foundation of mechanical engineering; 
+to provide thorough training in analytical and experimental methods and in data 
+analysis, including problem formulation; to provide instruction in the fundamentals 
+of the design process, including project innovation, synthesis, and management, both 
+individually and in a team setting; to provide both a technical and a nontechnical 
+program of study in which oral and written communication skills are developed; and 
+to instill in students an understanding of their professional and ethical responsibilities, 
+which aﬀect society and their profession.Mechanical Engineering         365
+Courses for Nonmajors
+Mechanics and mechanical engineering content can be found in several courses 
+intended for those not majoring in science. See Engineering and Applied Science.
+The Mechanical Engineering Program
+At Yale, three mechanical engineering programs are oﬀered: a B.S. degree program with 
+a major in Mechanical Engineering, a B.S. degree program with a major in Engineering 
+Sciences (Mechanical), and a B.A. degree program with a major in Engineering 
+Sciences (Mechanical). Prospective majors in both B.S. programs are advised to 
+complete introductory physics and mathematics through calculus (MATH 1150 ) by the 
+end of their ﬁrst year.
+A student's undergraduate engineering program may include one or more special 
+project courses MENG 4991  or MENG 4992  in which the student pursues a particular 
+research interest through design-oriented projects and experimental investigations. 
+Projects may be initiated by the student, may be performed in a team, or may be derived 
+from the ideas of faculty members who place undergraduates in their ongoing research 
+projects. All interested students should contact the director of undergraduate studies 
+(DUS) for more information on special project courses.
+B.S. degree program in Mechanical Engineering/uni2002This is the most technically 
+intensive mechanical engineering degree program and is accredited by the Engineering 
+Accreditation Commission of ABET, Inc. This program is appropriate for students 
+who plan careers as practicing engineers in industry, consulting ﬁrms, or government, 
+as well as for students who are considering a career in research and plan to pursue an 
+advanced degree in engineering.
+B.S. degree program in Engineering Sciences (Mechanical) This non-ABET 
+degree program is suitable for students who wish to gain signiﬁcant expertise within 
+mechanical engineering while combining their engineering studies with related 
+disciplines. For example, a number of students have taken courses in architecture while 
+pursuing a program in mechanical engineering that emphasizes structural mechanics; 
+similarly, a student with an interest in computer graphics might combine engineering 
+courses in computer-aided design with programming courses from the Department of 
+Computer Science.
+B.A. degree program in Engineering Sciences (Mechanical) In a society with 
+increasing levels of technical sophistication, a well-rounded individual must have 
+some background in science and technology. The non-ABET B.A. program is designed 
+for students who may be planning careers in business, law, economics, medicine, 
+journalism, or politics but need to understand the impact that science and technology 
+can have on society at large. An understanding of engineering methods and practices, 
+combined with a traditional liberal arts education, provides a strong background for 
+a variety of careers. The program is well suited for students who wish to fulﬁll the 
+requirements of two majors.
+The major  for all three degree programs requires a group of prerequisites or 
+equivalents; several courses beyond the prerequisites; and a senior requirement, as 
+indicated below.366            Yale College Programs of Study 2025–2026
+Prerequisites
+B.S. degree program in Mechanical Engineering/uni2002 The prerequisites in mathematics 
+are MATH 1120 , MATH 1150 , and ENAS 1510 , or the equivalent. The basic science 
+prerequisites are PHYS 1800 , PHYS 1810 , or PHYS 2000, PHYS 2010 ; one laboratory 
+from PHYS 1650L  or PHYS 2050L , and one from PHYS 1660L  or PHYS 2060L , or 
+equivalents, and one introductory lecture course in chemistry, numbered CHEM 1610
+or higher. The chemistry lecture course may be waived for a Chemistry AP score of 4 or 
+5 or an IB Higher level or Standard level score of 6 or 7./uni2002
+B.S. degree program in Engineering Sciences (Mechanical)/uni2002 The prerequisites in 
+mathematics are MATH 1120, MATH 1150 , and ENAS 1510 , or the equivalent. The 
+basic science prerequisites are PHYS 1800 , PHYS 1810, or PHYS 2000 , PHYS 2010; 
+one laboratory from PHYS 1650L  or PHYS 2050L , and one from PHYS 1660L,
+PHYS 2060L , or MENG 2616L .
+B.A. degree program in Engineering Sciences (Mechanical)/uni2002The prerequisites in 
+mathematics are MATH 1120  and MATH 1150 . The basic science prerequisite is physics 
+at least to the level of PHYS 1700 , PHYS 1710.
+Requirements of the Major
+See Links to the attributes indicating courses approved for the Mechanical Engineering 
+major requirements.
+B.S. degree program in Mechanical Engineering requires twenty courses for 19.5 
+credits beyond the prerequisites as follows:
+1.Advanced mathematics: ENAS 1940  and MATH 2220  or MATH 2250
+2.Mechanical engineering and related: MENG 1105 , 2511, 2311, 2615, MENG 2616L ,
+3125, 3422, MENG 3423L , 3323, 3424, MENG 3020L , MENG 4137L and
+MENG 4138L (the senior requirement), ENAS 1300, ECE 2000
+3.Technical electives: three approved technical electives chosen in consultation with the
+DUS; only one course from MENG 4991  or MENG 4992  may be counted as one of the
+three technical electives.
+The curriculum in this program is arranged in prescribed patterns, but some departures 
+from it are possible with approval of the DUS.
+B.S. degree program in Engineering Sciences (Mechanical) /uni2002The major requires 
+twelve approved course credits in engineering (with only one course from
+MENG 4991 or MENG 4992 ), beyond the prerequisites and including the senior 
+project, which can cover a broad array of topics within the subject, provided that 
+they contribute to a coherent program. Students should consult with the DUS at the 
+beginning of their sophomore year.
+B.A. degree program in Engineering Sciences (Mechanical)/uni2002The program 
+requires eight approved course credits in engineering (with only one course from
+MENG 4991  or MENG 4992 ), beyond the prerequisites, including the senior 
+project. Students should consult with the DUS at the beginning of their sophomore 
+year.Mechanical Engineering         367
+Credit/D/Fail /uni2002No course taken Credit/D/Fail may be applied toward the requirements 
+of the major, including prerequisites.
+Outside credit  Courses taken at another institution or during an approved summer or 
+term-time study abroad program may count toward the major requirements with DUS 
+approval
+Senior Requirement 
+B.S. degree program in Mechanical Engineering/uni2002Students satisfy the senior 
+requirement by taking MENG 4137L (full-credit) and MENG 4138L (half-credit) in the 
+senior year.
+B.S. degree program in Engineering Sciences (Mechanical)/uni2002Students satisfy the 
+senior project requirement by completing MENG 4154; MENG 4991 or MENG 4992; 
+or another upper-level design course (taken during the senior year) chosen in 
+consultation with the DUS. Only one Special Projects Course (MENG 4991 or 4992) 
+may be counted toward the requirements of the major.
+B.A. degree program in Engineering Sciences (Mechanical)/uni2002Students satisfy the 
+senior project requirement by completing MENG 4991 or MENG 4992; or another 
+upper-level design course (taken during their senior year) chosen in consultation with 
+the DUS. Only one Special Projects Course (MENG 4991 or 4992) may be counted 
+toward the requirements of the major.
+SUMMARY OF MAJOR REQUIREMENTS
+MECHANICAL ENGINEERING, B.S.
+Prerequisites/uni2002MATH 1120, MATH 1150, and ENAS 1510, or equivalent; PHYS 1800,  
+PHYS 1810, or PHYS 2000, PHYS 2010, and 2 labs (1 from PHYS 1650L or
+PHYS 2050L; 1 from PHYS 1660L or PHYS 2060L, or equivalents), and 1 introductory 
+chemistry lecture course or equivalent
+Number of courses/uni200220 courses and 19.5 credits beyond prerequisites (including senior 
+req)
+Speciﬁc courses required /uni2002ENAS 1300 and 1940; ECE 2000; MATH 2220 or
+MATH 2250; MENG 1105, 2511, 2311, 2615, MENG 2616L, 3125, 3422, MENG 3423L,  
+3323, 3424, MENG 3020L
+Distribution of courses/uni20023 technical electives chosen in consultation with DUS (only 
+one of MENG 4991 or MENG 4992)
+Substitution permitted/uni2002With DUS approval
+Senior requirement/uni2002MENG 4137L and MENG 4138L taken in senior year
+ENGINEERING SCIENCES (MECHANICAL), B.S.
+Prerequisites/uni2002MATH 1120, MATH 1150, and ENAS 1510, or equivalent; PHYS 1800,  
+PHYS 1810, or PHYS 2000, PHYS 2010, and 2 labs (1 from PHYS 1650L or
+PHYS 2050L; 1 from PHYS 1660L, PHYS 2060L, or MENG 2616L)
+Number of courses/uni200212 course credits beyond prerequisites (incl senior req)368            Yale College Programs of Study 2025–2026
+Substitution permitt
+ed/uni2002With DUS approval
+Senior requirement /uni2002MENG 4154 ; MENG 4991  or MENG 4992 ; or another upper-level 
+design course chosen in consultation with the DUS
+ENGINEERING SCIENCES (MECHANICAL), B.A.
+Prerequisites /uni2002MATH 1120 , MATH 1150 ; PHYS 1700 , PHYS 1710  or higher
+Number of courses/uni2002 8 course credits beyond prerequisites (incl senior req)
+Substitution permitted /uni2002With DUS approval
+Senior requirement /uni2002MENG 4991  or MENG 4992; or another upper-level design 
+course chosen in consultation with the DUS
+FACULTY OF THE DEPARTMENT OF MECHANICAL ENGINEERING AND 
+MATERIALS SCIENCE
+Professors /uni2002Ira Bernstein ( Emeritus), Aaron Dollar, Juan Fernández de la Mora, 
+† † Alessandro Gomez, Sohrab Ismail-Beigi, Shu
+(Emeritus), Corey O’Hern, Vidvuds Ozolins, n-Ichiro Karato, Marshall Long 
+Brian Scas sellati, Jan Schroers, Udo 
+Schwarz (Chair), Mitchell Smooke
+Associate P
+rofessors/uni2002Rebecca Kramer-Bottiglio, Madhusudhan Venkadesan
+Assistant Professors/uni2002Ian Abraham, Yimin Luo, Amir Pahlavan, Bauyrzhan Primkulov,†
+Daniel Wiznia
+Senior Lecturer Beth Anne Bennett
+Lecturers/uni2002Lawrence Wilen, Joseph Zinter
+†A joint appointment with primary affiliation in another department or school.† †

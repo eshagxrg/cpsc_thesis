@@ -1,0 +1,101 @@
+Applied Physics         165
+Applied Physics
+Director of undergraduate studies: Daniel Prober (daniel.prober@yale.edu), 417 BCT, 
+432-4280; appliedphysics.yale.edu
+Physics is the study of the fundamental laws of nature. Applied physics uses these 
+laws to understand phenomena that have practical applications. Engineering in turn 
+makes use of these phenomena for human purposes. Applied physics thus forms a link 
+between the fundamental laws of nature and their applications. Students majoring 
+in Applied Physics take courses in both physics and engineering, as well as courses 
+speciﬁcally in applied physics. Students completing the program in Applied Physics 
+are prepared for graduate study in applied physics, in physics, in nanoscience, or in 
+engineering, and, with appropriate prerequisites, in medicine; or they may choose 
+careers in a wide range of technical and commercial ﬁelds, or in ﬁelds such as technical 
+writing or patent law that draw on interdisciplinary subjects.
+Contemporary physical science and engineering are becoming increasingly 
+interdisciplinary. Traditional boundaries between ﬁelds have blurred, and new areas 
+are constantly emerging, e.g., nanotechnology. The Applied Physics major provides 
+a ﬂexible framework on which students can build a curriculum tailored to their own 
+interests, in consultation with the director of undergraduate studies (DUS).
+Prerequisites 
+During their ﬁrst year, students interested in Applied Physics should start by taking 
+courses in mathematics, and in physics if possible, appropriate to their level of 
+preparation. The choice between diﬀerent starting points is generally made based on 
+performance on Advanced Placement tests. The multiplicity of choices facing students 
+interested in this general area indicates the importance of informed advice for ﬁrst-year 
+students. Students should consult freely with DUSs and individual faculty members in 
+their departments of interest to optimize choices and to ensure maximum ﬂexibility at 
+the time a major is selected.
+The required prerequisites for students interested in Applied Physics include two 
+physics courses and one physics lab; APHY 1510  or MATH 1200 ; and PHYS 4000 (or
+APHY 1940  with either MATH 2220  or MATH 2250  or MATH 2260 ).
+The recommended starting courses in physics are PHYS 2000 and 2010. These 
+courses should be taken in the ﬁrst year by students who have a strong preparation in 
+mathematics and physics. Students with a particularly strong background in physics 
+and mathematics may take PHYS 2600 and 2610 instead. Students who are less well 
+prepared in physics and mathematics may choose to take PHYS 1800 and 1810 during 
+their ﬁrst year, or PHYS 2000 and 2010 during their sophomore year after they have 
+taken additional mathematics courses. One laboratory course, PHYS 1660L or 2060L, 
+should be taken at some time during the ﬁrst or second year.
+Requirements of the Major 
+The major in Applied Physics requires eight courses beyond the introductory sequence. 
+Two of these must be APHY 4710  and 4720. All majors are also required to take
+APHY 3220 , APHY 4390  or PHYS 4400, and APHY 4200 , or equivalents. The three 
+remaining advanced courses should comprise an area of focus. For example, a student 
+interested in solid-state and/or quantum electronics might choose from APHY 3210 ,166            Yale College Programs of Study 2025–2026
+4480, 4490, ECE 3200 , and 3250. A student interested in the physics of materials and/
+or nanoscience might choose from APHY 4480 , 4490, CHEM 2200 , and MENG 2615 . 
+Many other focus areas are possible.
+Credit/D/Fail/uni2002No more than one course taken Credit/D/Fail may be applied toward 
+the requirements of the major with permission of the DUS. The senior special projects,
+APHY 4710  and 4720, may only be taken for a letter grade.
+Outside credit Courses taken at another institution or during an approved summer or 
+term-time study abroad program may count toward the major requirements with DUS 
+approval.
+Senior Requirement 
+Seniors must complete an independent research project, taken as APHY 4710  and
+4720. The independent research project is under the supervision of a faculty member 
+in Applied Physics, Physics, Engineering, or related departments. The project may be 
+started in the junior year and continued into the senior year. Students planning to do a 
+research project should contact the DUS as early as possible to discuss available options 
+and general requirements.
+Advising
+The Applied Physics major provides various programs corresponding to a range of 
+student interests. Substitutions of equivalent courses may be permitted. Students 
+interested in an Applied Physics major should contact the DUS as early as possible, and 
+in any case by the end of their sophomore year.
+A well-prepared student interested in materials physics or quantum electronics who 
+starts the senior research in the junior year might elect the following course sequence:
+First-Year Sophomore Junior Senior
+APHY 1510 APHY 3220 APHY 4720 APHY 4480
+PHYS 2000 APHY 4390 ECE 3200 APHY 4490
+PHYS 2010 PHYS 4000 APHY 4200 APHY 4710
+PHYS 2060L
+A student interested in alternative energy who starts physics in the sophomore year and 
+conducts research in the senior year might elect:
+First-Year Sophomore Junior Senior
+MATH 1200 PHYS 2000 APHY 3220 APHY 4480
+PHYS 2010 APHY 4390 APHY 4710
+PHYS 2060L ECE 3200 APHY 4720
+PHYS 4000 APHY 4200 ECE 4061
+REQUIREMENTS OF THE MAJOR
+Prerequisites/uni2002PHYS 1800, 1810, or PHYS 2000, 2100, with appropriate math coreqs 
+and PHYS 1660L or 2060L; APHY 1510  or MATH 1200 ; PHYS 4000 (or APHY 1940
+with either MATH 2220  or MATH 2250  or MATH 2260 )
+Number of courses/uni20028 term courses beyond prereqs (incl senior req)Applied Physics         167
+Distribution of courses/uni2002 3 adv courses in physical or mathematical sciences or 
+engineering in area of focus, with DUS approval
+Speciﬁc courses required/uni2002APHY 3220 , 4390 or PHYS 4400, and APHY 4200 , or 
+equivalents
+Substitution permitted/uni2002Any relevant course approved by DUS
+Senior requirement/uni2002APHY 4710  and 4720
+FACULTY OF THE DEPARTMENT OF APPLIED PHYSICS
+Professors/uni2002Charles Ahn, †Sean Barrett, Hui Cao, Michel Devoret, Paul Fleury 
+(Emeritus), †Steven Girvin, †Leonid Glazman, †Jack Harris, Victor Henrich 
+(Emeritus), Sohrab Ismail-Beigi, Simon Mochrie, †Corey O'Hern, Vidvuds Ozolins, 
+Daniel Prober, Nicholas Read, Peter Schiﬀer, Robert Schoelkopf, †Ramamurti Shankar, 
+†Mitchell Smooke, A. Douglas Stone, †Hongxing Tang, Robert Wheeler (Emeritus), 
+Werner Wolf (Emeritus)
+Associate Professors/uni2002†Michael Choma, Peter Rakich
+Assistant Professors/uni2002Yu He, Owen Miller, Shruti Puri
+†A joint appointment with primary aﬃliation in another department.

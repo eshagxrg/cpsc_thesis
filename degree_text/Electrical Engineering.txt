@@ -1,0 +1,207 @@
+Electrical Engineering          267
+Electrical Engineering
+Director of undergraduate studies: Fengnian Xia
+(fengnian.xia@yale.edu); seas.yale.edu/departments/electrical-engineering 
+The Electrical Engineering (EE) program at Yale College is designed to equip students 
+with the skills and knowledge needed to thrive in today's rapidly evolving technological 
+landscape. Our undergraduate program broadly encompasses disciplines such as 
+microelectronics, photonics, energy, semiconductor technology, computer engineering, 
+signal and information processing, decision and control systems, and communications. 
+Students engage in hands-on projects and experimental design, honing their ability 
+to analyze complex problems and communicate their ﬁndings eﬀectively. Whether 
+pursuing careers in government, industry, or academia, graduates of our program 
+are prepared to make signiﬁcant contributions to society and address pressing global 
+challenges.
+Three electrical engineering degree programs are oﬀered, as well as a joint degree 
+between the electrical engineering and computer science departments.
+1. The B.S. in Electrical Engineering, accredited by the Engineering Accreditation 
+Commission of ABET, Inc., is the ﬂagship degree program and is the most challenging 
+program in electrical engineering. This program is appropriate for highly motivated 
+students who are interested in entering the engineering profession, and who wish for a 
+ﬂexible enough program to consider a variety of other career paths.
+Upon graduation, Yale's B.S. Electrical Engineering (ABET) students are expected 
+to achieve “student outcomes” as deﬁned by ABET and the program. The Electrical 
+Engineering major produces graduates who demonstrate: (1) an ability to identify, 
+formulate, and solve complex engineering problems by applying principles of 
+engineering, science, and mathematics; (2) an ability to apply engineering design to 
+produce solutions that meet speciﬁed needs with consideration of public health, safety, 
+and welfare, as well as global, cultural, social, environmental, and economic factors; 
+(3) an ability to communicate eﬀectively with a range of audiences; (4) an ability 
+to recognize ethical and professional responsibilities in engineering situations and 
+make informed judgments, which must consider the impact of engineering solutions 
+in global, economic, environmental, and societal contexts; (5) an ability to function 
+eﬀectively on a team whose members together provide leadership, create a collaborative 
+and inclusive environment, establish goals, plan tasks, and meet objectives; (6) an 
+ability to develop and conduct appropriate experimentation, analyze and interpret data, 
+and use engineering judgment to draw conclusions; (7) an ability to acquire and apply 
+new knowledge as needed, using appropriate learning strategies.
+2. The B.S. in Engineering Sciences (Electrical) provides similar technical exposure 
+and equivalent rigor as the ABET program, while retaining the ﬂexibility for students 
+to take a broader range of courses than those mandated by the ABET curriculum. The 
+B.S. in Engineering Sciences (Electrical) is suitable for careers in technology and is a 
+popular choice for those choosing academic, industrial, or entrepreneurial career paths.
+3. The B.A. in Engineering Sciences (Electrical) is suitable for careers outside of 
+technology, including managerial, ﬁnancial, and entrepreneurial career options.268            Yale College Programs of Study 2025–2026
+4. The fourth program is a joint B.S. in Electrical Engineering and Computer Science,
+which oﬀers a unique blend of electrical engineering and computer science courses that 
+retains the rigor of both ﬁelds. This degree is a popular choice for those interested in 
+information technology careers.
+The program's educational objectives prepare students for four potential paths. An 
+academic path qualiﬁes graduates to enter a top-tier graduate program conducting 
+research with broad applications or signiﬁcant consequences, and eventually to teach at 
+an academic or research institution. Graduates following an industrial path can enter 
+a technical path or a managerial path. An entrepreneurial path allows graduates to 
+bring broad knowledge to a startup company, which can deliver a product or service 
+that meets societal needs. Graduates who elect a nontraditional engineering path 
+might complete a professional program in business, law, or medicine, for which their 
+engineering knowledge will be valuable.
+Prerequisites 
+All three engineering degree programs require MATH 1120  and MATH 1150  if 
+applicable, ENAS 1510 or MATH 1200  or higher, ENAS 1300 (CPSC 1001  does not 
+fulﬁll this requirement), and PHYS 1800, 1810 or higher (PHYS 1700, 1710 is acceptable 
+for the B.A. degree). Acceleration credits awarded on entrance can be used to satisfy 
+the MATH 1120  and 1150 requirements. Students whose preparation exceeds the level 
+of ENAS 1510 or MATH 1200  are asked to take a higher-level mathematics course 
+instead, such as MATH 2220 , MATH 2250 , MATH 2260 , MATH 2550 , or MATH 2560 . 
+Similarly, students whose preparation at entrance exceeds the level of PHYS 1800,
+1810 are asked to take higher-level physics courses instead, such as PHYS 2000, 2010. 
+Students whose programming skills exceed the level of ENAS 1300 are asked to take 
+a more advanced programming course instead, such as CPSC 2010 ; consult with the 
+director of undergraduate studies (DUS).
+Prerequisites taken Credit/D/Fail may not be counted toward the requirements of the 
+major.
+Requirements of the Major
+Because the introductory courses are common to all three degree programs, students 
+do not usually need to make a ﬁnal degree choice before the junior year. Each student's 
+program must be approved by the DUS.
+B.S. degree program in Electrical Engineering/uni2002The ABET-accredited B.S. in Electrical 
+Engineering requires, beyond the prerequisites, four term courses in mathematics and 
+science and thirteen term courses covering topics in engineering. These courses include:
+1.Mathematics and basic science (four term courses): ENAS 1940; MATH 2220  or
+MATH 2250  or MATH 2260 ; APHY 3220  or equivalent; S&DS 2380 , or S&DS 2410 , 
+or equivalent.
+2.Electrical engineering and related subjects (thirteen term courses):
+ECE 2000 , 2011, 2020, 2031, 3101, 3200, 3250, 3481, and 4811 (the ABET 
+design project senior requirement); and four engineering electives, at least 
+three of which should be at the 4000 level. CPSC 3650  or CPSC 3660 ,
+MENG 3020L , MENG 4050 , MENG 4673 , BENG 4611 , PHYS 4300, APHY 4580 , 
+and all 4000-level computer science courses qualify as ABET electives. One Electrical Engineering          269
+of ECE 4680  or ECE 4691 , Advanced Special Projects, also qualify as a 4000-level 
+elective.
+The introductory engineering courses are designed such that they may be taken 
+concurrently in the sophomore year; for example, in the fall term students may 
+take ECE 2000  and ECE 2020 , followed by ECE 2011 and ECE 2031 in the spring 
+term. These courses may be taken in any order, with the exception of ECE 2031, 
+which requires ECE 2000  as a prerequisite. In this case, it would be helpful to 
+take ENAS 1940 and/or ENAS 1300 in the ﬁrst year.
+A sample ABET-accredited B.S. degree schedule for students who have taken the 
+equivalent of one year of calculus in high school (and thus are not required to 
+take MATH 1120  and MATH 1150 ) could include:
+First Year: ECE 2000 , ECE 2011, ENAS 1510, PHYS 1800, and PHYS 1810
+Sophomore: ECE 2020 , ECE 2031, ENAS 1300, ENAS 1940, and MATH 2220
+Junior: ECE 3101, ECE 3200 , ECE 3250, ECE 3481, S&DS 2380 , and 1 elective
+Senior: APHY 3220 , ECE 4811, and 3 electives
+A sample schedule for students who enter into the ABET-accredited B.S. major at the 
+sophomore year could include:
+First Year: ENAS 1510, ENAS 1300, ENAS 1940, PHYS 1800, and PHYS 1810
+Sophomore: ECE 2000 , ECE 2011, ECE 2020 , ECE 2031, and MATH 2220
+Junior: ECE 3101, ECE 3200 , ECE 3250, ECE 3481, S&DS 2380 , and 1 elective
+Senior: APHY 3220 , ECE 4811, and 3 electives
+A sample schedule for students who enter into the ABET-accredited B.S. major in the 
+ﬁrst year (and are required to take MATH 1120  and MATH 1150 ) and only seek to fulﬁll 
+basic distribution requirements with no engineering courses, could be:
+First Year: MATH 1120 , MATH 1150 , PHYS 1800, PHYS 1810, and ENAS 1300
+Sophomore: ENAS 1510, ECE 2000 , ECE 2011, ECE 2020 , ECE 2031, and MATH 2220
+Junior: ENAS 1940, ECE 3101, ECE 3200 , ECE 3250, ECE 3481, and S&DS 2380
+Senior: APHY 3220 , ECE 4811, and 4 electives
+B.S. degree program in Engineering Sciences (Electrical)/uni2002This program requires 
+fewer technical courses and allows more freedom for work in technical areas outside the 
+traditional electrical engineering disciplines (e.g., biomedical engineering, mechanical 
+engineering, physics, etc.). It requires thirteen technical term courses beyond the 
+prerequisites, speciﬁcally: MATH 2220  or MATH 2250  or MATH 2260 ; ENAS 1940;
+ECE 2000 , 2011, 2020, 2031; ECE 4710 and/or 4721 (the senior requirement), or 
+with permission of the instructor and the DUS, ECE 4811; and ﬁve or six electives 
+(depending on senior requirement) approved by the DUS, at least three of which must 
+be at the 4000 level. All electives listed for the ABET-accredited B.S. major qualify as 
+electives for this degree.
+For students who have taken the equivalent of one year of calculus in high school (and 
+thus are not required to take MATH 1120  and MATH 1150 ), a sample schedule for the 
+B.S. degree in Engineering Science (Electrical) could be:
+First Year: ECE 2000 , ECE 2000 , ENAS 1510, PHYS 1800, and PHYS 1810
+Sophomore: ECE 2020 , ECE 2031, ENAS 1300, ENAS 1940, and MATH 2220270            Yale College Programs of Study 2025–2026
+Junior: 3 electives
+Senior: ECE 4710 and/or 4721, and two or three electives depending on the senior 
+project
+The B.S. degree in Engineering Sciences (Electrical) requires fewer speciﬁc courses and 
+4 fewer courses overall than the ABET-accredited degree. Any of the courses required 
+for the ABET-accredited major qualify as electives for this degree, as well as other 
+courses with substantial electrical engineering context, subject to the approval of the 
+DUS. For students entering the major during the sophomore year, or those who need 
+introductory calculus in their ﬁrst year, sample schedules are similar to those described 
+for the ABET-accredited degree program, with the diﬀerences in the B.S. Engineering 
+Scie
+nces (Electrical) degree applied.
+The ﬂexibility during the junior and senior years in the schedule above is often used to 
+accommodate a second major, such as Economics, Applied Physics, Computer Science, 
+P
+hysics, or Mechanical Engineering.
+B
+.A. degree program in Engineering Sciences (Electrical) This program is appropriate 
+for those planning a career in ﬁelds such as business, law, or medicine where scientiﬁc 
+and technical knowledge is likely to be useful. It requires eight technical term courses 
+beyond the prerequisites, speciﬁcally: MATH 2220, MATH 2250, MATH 2260 or 
+ENAS 1940; ECE 2000, 2011, 2020, and 4710 and/or 4721 (the senior requirement); and 
+two (or three) approved electives.
+Credit/D/Fail/uni2002No courses, including prerequisites, taken Credit/D/Fail may be applied 
+toward the requirements of the major. 
+Outside credit Courses taken at another institution or during an approved summer or 
+term-time study abroad program may count toward the major requirements with DUS 
+approval.
+Senior Requirement 
+A research or design project carried out in the senior year is required in all three 
+programs and must be approved by the DUS. Students take ECE 4710 and/or 4721, or 
+ECE 4811, present a written report, and make an oral presentation. ECE 4811 is required 
+for students earning the B.S. degree in Electrical Engineering (ABET). Students 
+taking both ECE 4710 and 4721, Senior Advanced Special Projects, may count one as an 
+elective. Arrangements to undertake a project in fulﬁllment of the senior requirement 
+must be made by the end of the course selection period in the term in which the student 
+will enroll in the course; by this date, a prospectus approved by the intended faculty 
+adviser must be submitted to the DUS.
+Advising and Approval of Programs
+All Electrical Engineering and Engineering Sciences majors must have their programs 
+approved by the DUS. Arrangements to take ECE 4710, 4721, or ECE 4811 are strongly 
+suggested to be made during the term preceding enrollment in the course. Independent 
+research courses (ECE 4680 or ECE 4691) are graded on a Pass/Fail basis, and one (1) 
+can be counted toward the requirements of the major.Electrical Engineering         271
+Prerequisites/uni2002MATH 1120 , 1150 if needed;  ENAS 1510 or MATH 1200 or higher;
+ENAS 1300 or higher; PHYS 1800 , 1810 or higher
+Number of courses/uni200217 term courses beyond prereqs, incl senior req
+Speciﬁc courses required/uni2002ENAS 1940; MATH 2220 or MATH 2250 or MATH 2260 ;
+APHY 3220 ; S&DS 2380 or S&DS 2410 ; ECE 2000, 2011 , 2020, 2031, 3101, 3200, 3250,
+3481
+Distribution of courses/uni2002 4 engineering electives, 3 at 4000 level
+Senior requirem ent/uni2002One-term design project (ECE 4811) with  DUS approval
+ENGINEERING SCIENCES (ELECTRICAL), B.S. AND B.A.
+Prerequisites/uni2002Both degrees—MATH 1120, 1150; ENAS 1510 or MATH 1200  or higher;
+ENAS 1300 or higher; B.S.—PHYS 1800, 1810 or higher; B.A.—PHYS 1700, 1710 or 
+higher
+Number of courses/uni2002B.S.—13 term courses beyond prereqs, incl senior req; B.A.—8 
+term courses beyond prereqs, incl senior req
+Speciﬁc courses required/uni2002B.S.—ENAS 1940; MATH 2220 or MATH 2250 or
+MATH 2260; ECE 2000 , 2011, 2020, 2031; B.A.—1 from ENAS 1940, MATH 2220,
+MATH 2250 , or MATH 2260; ECE 2000, 2011, 2020
+Distribution of courses/uni2002 B.S.—5 or 6 electives, depending on senior req, approved by 
+DUS, 3 at 4000 level; B.A.—2 or 3 electives, depending on senior req, approved by DUS
+Senior requirement/uni2002B.S.—one or two-term research or design project, ECE 4710 and/
+or 4721, or ECE 4811,  approved by DUS; B.A. —one or two-term research or design
+project, ECE 4710  and/or 4721, approved by DUS
+FACULTY OF THE DEPA RTMENT OF EL ECTRICAL ENGINEERING
+Professors/uni2002†Hui Cao, †James Duncan, Jung Han, Roman Kuc, Rajit Manohar, 
+A.Stephen Morse, Kumpati Narendra, †Daniel Prober, Peter Schultheiss (Emeritus),
+†Lawrence Staib, †Hemant  Tagare, Hongxing Tang, Leandros Tassiulas, J. Rimas
+Vaišnys, †Y. Richard Yang
+Associate Professors/uni2002Richard Lethin (Adjunct, Lecturer), Jakub Szefer, †Sekhar 
+Tatikonda, Fengnian Xia
+Assistant Professors/uni2002Wenjun Hu, Amin Karbasi, Priyadarshini Panda
+†A joint appointment with primary aﬃliation in another department.SUMMARY OF MAJOR REQUIREMENTS
+ELECTRICAL ENGINEERING, B.S.

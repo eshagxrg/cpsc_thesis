@@ -1,0 +1,52 @@
+Computer Science and Mathematics         227
+Computer Science and Mathematics
+Directors of undergraduate studies: Theodore Kim
+(theodore.kim@yale.edu) (Computer Science), AKW 208A, 432-6400; Sebastian 
+Hurtado-Salazar (Mathematics), Miki Havlickova (Mathematics); Math DUS email
+(math.dus@yale.edu)
+Computer Science and Mathematics is an interdepartmental major for students who 
+are interested in computational mathematics, the use of computers in mathematics, 
+mathematical aspects of algorithm design and analysis, and theoretical foundations of 
+computing.
+Requirements of the Major
+See Links to the attributes indicating courses approved for the Computer Science and 
+Math major requirements.
+The major requires fourteen term courses as well as a senior project. Six of the 
+fourteen courses must be in computer science: CPSC 2010 ; CPSC 2230 ; CPSC 3230 ; 
+and CPSC 3650  or 3660; one advanced course with signiﬁcant mathematical 
+content; and one additional advanced course other than CPSC 4900 . Only one 
+of CPSC 3650  and 3660 may be taken for major credit. The remaining eight courses 
+must be in mathematics: MATH 1200 , either MATH 2250  or 2260, MATH 2440 , and 
+ﬁve additional term courses numbered 2250-4690.
+With prior written permission from the Mathematics DUS, students who completed 
+multivariable calculus during high school may substitute a higher level mathematics 
+course in the same area for MATH 1200 .
+A course must be listed with a MATH number to count toward the mathematics 
+requirements and must be listed with a CPSC number to count toward the computer 
+science requirements—substitutions from other departments are not allowed. Graduate 
+mathematics courses level 5000-5999 may be counted as electives; graduate 
+mathematics courses level 6000 or above may not be counted.
+Credit/D/Fail No course taken Credit/D/Fail may be applied toward the requirements 
+of the major.
+Outside credit Courses taken after matriculation at Yale at another institution or during 
+an approved summer or term-time study abroad program may count toward the major 
+requirements with DUS approval.
+Senior Requirement
+The senior requirement is a project or an essay on a topic acceptable to both 
+departments. Students typically enroll in CPSC 4900  or MATH 4750 . Permission 
+must be obtained in writing from the director of undergraduate studies (DUS) of both 
+departments before embarking on the project or the essay.
+Advising
+The entire program of each student majoring in Computer Science and Mathematics 
+must be approved by the DUS in each department.228            Yale College Programs of Study 2025–2026
+SUMMARY OF MAJOR REQUIREMENTS
+Prerequisites None
+Number of courses 14 term courses, 6 in computer science and 8 in math (not incl 
+senior req)
+Speciﬁc courses required CPSC 2010 ; CPSC 2230 ; CPSC 3230 ; CPSC 3650  or 3660;
+MATH 1200 ; MATH 2250  or 2260; MATH 2440
+Distribution of courses 2 addtl courses in computer science with 1 adv course with 
+signiﬁcant mathematical content and 1 adv course other than CPSC 4900 ; 5 addtl 
+courses in math numbered 2250-4690 (may not include MATH 4700 , or MATH 4800 
+through MATH 4890)
+Senior requirement CPSC 4900  or MATH 4750

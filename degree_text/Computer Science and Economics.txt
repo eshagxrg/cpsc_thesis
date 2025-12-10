@@ -1,0 +1,96 @@
+224            Yale College Programs of Study 2025–2026
+Computer Science and Economics
+Director of undergraduate studies: Philipp Strack (philipp.strack@yale.edu)
+Computer Science and Economics (CSEC) is an interdepartmental major for students 
+interested in the theoretical and practical connections between computer science and 
+economics. The B.S. degree in CSEC provides students with foundational knowledge 
+of economics, computation, and data analysis, as well as hands-on experience with 
+empirical analysis of economic data. It prepares students for professional careers 
+that incorporate aspects of both economics and computer science and for academic 
+careers conducting research in the overlap of the two ﬁelds. Topics in the overlap 
+include market design, computational ﬁnance, economics of online platforms, machine 
+learning, and social media. The CSEC major requires some classes in the intersection 
+between Computer Science and Economics which are not mandatory for either major.
+Prerequisites
+Prerequisite to this major is a basic understanding of discrete math, calculus, 
+microeconomics, and macroeconomics. Grades of 4 or 5 on high-school AP computer 
+science, statistics, calculus, microeconomics, and macroeconomics signal adequate 
+preparation for required courses in the CSEC major. For students who have not taken 
+these or equivalent courses in high school, the discrete mathematics prerequisite may 
+be satisﬁed with CPSC 2020  or MATH 2440 ; the calculus prerequisite may be satisﬁed 
+with MATH 1120 ; the microeconomics prerequisite may be satisﬁed with ECON 1110
+or ECON 1115; and the macroeconomics prerequisite may be satisﬁed with ECON 1111
+or ECON 1116. Other courses may suﬃce, and students should consult the director of 
+undergraduate studies (DUS) and their academic advisers if they are unsure whether 
+they have the prerequisite knowledge for a particular required course.
+Requirements of the Major
+See Links to the attributes indicating courses approved for the Computer Science and 
+Math Requirements (YC CSEC Elective not CS or EC; YC CSEC Elctv intrsectn CS/EC).
+The B.S. degree program requires successful completion of fourteen term courses 
+(not including courses taken to satisfy prerequisites) and the senior project. Nine of 
+the fourteen courses are listed below; the remaining ﬁve courses are electives. With 
+permission of the DUS and the academic adviser, a student may substitute a more 
+advanced course in the same area as a required course. When a substitution is made, 
+the advanced course counts toward the nine required courses and not toward the ﬁve 
+electives.
+The required courses include CPSC 2010 ; 2230; 3230; 3650 or 3660; ECON 2121
+or 2125; two courses in econometrics (ECON 1117 and 2123 or ECON 2135 and
+ECON 2136); one course in game theory ECON 3351 or CPSC 4550 ; one course in the 
+intersection of computer science and economics (e.g., CPSC 4550 , ECON 4417, 4433,
+4486, 4441, 4435, 4478 or CPSC 4740 ) which may not also count as one of the ﬁve 
+remaining electives or for the game theory requirement. S&DS 2410  and 2420 may be 
+taken instead of ECON 2135. Only CPSC 3650  or CPSC 3660  may be taken for major 
+credit.
+Elective courses are essentially those courses that count as electives in the Computer 
+Science major, the Economics major, or both. ECON 2122, ECON 2159, andComputer Science and Economics          225
+ECON 6672 can count as Economics electives. S&DS 3650  can count as an elective in a 
+related ﬁeld. At least two electives must be taken in the Computer Science department, 
+and at least one must be taken in the Economics department. With the permission 
+of the academic adviser, a student may use as the fourth and/or ﬁfth elective (one or 
+two courses) in related departments that do not usually serve as electives in Computer 
+Science or Economics.
+Searchable attributes: YC CSEC Elective not CS or EC; YC CSEC Elctv intrsectn CS/
+EC
+Credit/D/Fail/uni2002No course taken Credit/D/Fail may be applied toward the requirements 
+of the major.
+Outside credit Courses taken at another institution or during an approved summer or 
+term-time study abroad program may count toward the major requirements with DUS 
+approval.
+Senior Requirement
+In the senior year, each student must complete CSEC 4910, a one-term independent-
+project course that explicitly combines both techniques and subject matter from 
+computer science and economics. A project proposal must be approved by the student’s 
+academic adviser and project adviser, and it must be signed by the DUS by the end of 
+the third week of the term.
+Distinction in the Major/uni2002Computer Science and Economics majors may earn 
+Distinction in the Major if they receive grades of A or A– in at least three quarters 
+of their courses in the major (not including courses taken to satisfy prerequisites), 
+and their senior-project advisers determine that their senior projects are worthy of 
+distinction.
+Advising
+Approval of course schedules/uni2002Students considering the major but not yet declared 
+should arrange to meet with the DUS during the registration period to ensure that their 
+proposed course schedules are appropriate. Similarly, declared majors should meet with 
+their academic advisers to ensure that they are on track to satisfy all of the requirements 
+of the major. Course schedules must be signed by the DUS each term, and they must be 
+approved by an academic adviser before the DUS signs them.
+Transfer credit/uni2002Students who take a term abroad or take summer courses outside of 
+Yale may petition the DUS to count at most two courses from outside Yale toward 
+the requirements of the major. Students who take a year abroad may petition to count 
+at most three courses. Many courses taken outside Yale do not meet the standards of 
+the CSEC major; therefore, students should consult with their academic advisers and 
+the DUS before taking such courses. Courses taken outside Yale may not be counted 
+toward the major requirements in intermediate microeconomics, econometrics, or the 
+intersection of computer science and economics.
+SUMMARY OF MAJOR REQUIREMENTS
+Prerequisites Basic knowledge of discrete math, calculus, microeconomics, and 
+macroeconomics; determined by DUS and academic advisers as indicated226            Yale College Programs of Study 2025–2026
+Number of courses 14 term courses (not incl prereqs or senior req)
+Speciﬁc courses required CPSC 2010 , 2230, and 3230; CPSC 3650  or 3660; ECON 2121
+or 2125; ECON 1117 and 2123 or ECON 2135 and ECON 2136; ECON 3351 or CPSC 4550
+Distribution of courses  1 course in intersection of CPSC and ECON, as speciﬁed; 5 
+electives as speciﬁed
+Substitution permitted S&DS 2410  and 2420 may substitute for ECON 2135; a more 
+advanced course in the same area may substitute for a required course with DUS and 
+academic adviser permission
+Senior requirement CSEC 4910

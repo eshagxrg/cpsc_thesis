@@ -1,0 +1,228 @@
+218            Yale College Programs of Study 2025–2026
+Computer Science
+Director of undergraduate studies: Theodore Kim
+(theodore.kim@yale.edu); cpsc.yale.edu
+The Department of Computer Science oﬀers both B.S. and B.A. degree programs and 
+four combined major programs in cooperation with other departments: Electrical 
+Engineering and Computer Science, Computer Science and Economics, Computer 
+Science and Mathematics, and Computer Science and Psychology. Each program not 
+only provides a solid technical education in the core of computer science but also allows 
+students to take a broad range of courses in other disciplines that are an essential part of 
+a liberal arts education.
+Speciﬁcally, the Computer Science and combined major programs share a common core 
+of ﬁve computer science courses. The ﬁrst is CPSC 2010 , a survey that demonstrates 
+the breadth and depth of the ﬁeld to students who have taken the equivalent of 
+an introductory programming course. The remaining core courses cover discrete 
+mathematics (CPSC 2020  or MATH 2440 ), data structures (CPSC 2230 ), systems 
+programming and computer architecture (CPSC 3230 ), and algorithm analysis and 
+design (CPSC 3650  or 3660). Only one of CPSC 3650  or 3660 may be taken for major 
+credit. Together these courses include the material that every major should know.
+The core courses are supplemented by electives (and, for a combined major, core 
+courses in the other discipline) that oﬀer great ﬂexibility in tailoring a program to each 
+student's interests. The capstone is the senior project (CPSC 4900 ), through which 
+students experience the challenges and rewards of original research under the guidance 
+of a faculty adviser.
+Prospective majors are encouraged to discuss their programs with the director of 
+undergraduate studies (DUS) as early as possible.
+Introductory Courses
+The department oﬀers a broad range of introductory courses to meet 
+the needs of students with varying backgrounds and interests. Except 
+for CPSC 2000  and CPSC 2010 , none assumes previous knowledge of computers.
+1.CPSC 1001  teaches students majoring in any subject area how to program 
+a computer and solve problems. No prior programming experience is 
+required. Students with previous programming experience should consider 
+taking CPSC 2010  instead. This course satisﬁes the Quantitative Reasoning 
+distributional requirement.
+2.CPSC 1100  teaches programming for humanities and social sciences using 
+the Python programming language. No prior programming experience is 
+required. This course satisﬁes the Quantitative Reasoning distributional 
+requirement.
+3.CPSC 1340  provides an introduction to computer music, including musical 
+representations for computing, automated music analysis and composition, 
+interactive systems, and virtual instrument design.
+4.CPSC 1500  explores how some of the key ideas in computer science have 
+aﬀected philosophy of mind, cognitivism, connectionism, and related areas. This Computer Science          219
+humanities-style course requires a signiﬁcant amount of reading and writing 
+a paper, and satisﬁes the Writing and the Humanities and Arts distributional 
+requirements.
+5.CPSC 1510  studies the history of the graphical user interface in an attempt to guess 
+its future. This course satisﬁes the Writing distributional requirement.
+6.CPSC 1750  studies the C programming language and the Linux operating system. 
+This course satisﬁes the Quantitative Reasoning requirement.
+7.CPSC 1830  explores the myriad ways that law and technology intersect, with a 
+special focus on the role of cyberspace. This course satisﬁes the Social Sciences 
+distributional requirement.
+8.CPSC 1840  focuses on the evolving and oftentimes vexing intellectual property 
+regime of the new digital age. This course satisﬁes the Social Sciences and the 
+Humanities and Arts distributional requirements.
+9.CPSC 1850  covers the evolution of various legal doctrines with and around 
+technological development. This course satisﬁes the Social Sciences and the Writing 
+distributional requirements.
+10.CPSC 2000 , intended as a survey course for non-majors, focuses on practical 
+applications of computing technology while examining topics including computer 
+hardware, computer software, and related issues such as security and software 
+engineering. This course satisﬁes the Quantitative Reasoning distributional 
+requirement.
+11.CPSC 2010  teaches the basic concepts, techniques, and applications of computer 
+science, including systems (computers and their languages) and theory (complexity 
+and computability). Students with suﬃcient programming experience may elect
+CPSC 2010  without taking CPSC 1001 . (These courses meet at the same time so 
+that students are easily able to change levels if necessary.) This course satisﬁes the 
+Quantitative Reasoning distributional requirement.
+12.CPSC 2020  presents the formal methods of reasoning and the concepts of 
+discrete mathematics and linear algebra used in computer science and related 
+disciplines. This course satisﬁes the Quantitative Reasoning distributional 
+requirement.
+Requirements of the Major
+See Link to the YC CPSC Elective attribute  indicating courses approved for 
+major requirements.
+The B.S. and the B.A. degree programs have the same required ﬁve core courses:
+CPSC 2010 ; CPSC 2020  or MATH 2440 ; CPSC 2230 ; CPSC 3230 ; and CPSC 3650  or
+3660.
+B.S. degree program The B.S. degree program requires a total of twelve term courses: 
+ﬁve core courses, six intermediate or advanced courses in Computer Science, and the 
+senior requirement.
+B.A. degree program The B.A. degree program requires a total of ten term courses: the 
+ﬁve core courses, four intermediate or advanced courses in Computer Science, and the 
+senior requirement.220            Yale College Programs of Study 2025–2026
+Combined B.S./M.S. degree Exceptionally able and well-prepared students may 
+complete a course of study leading to the simultaneous award of the B.S. and 
+M.S. degrees after eight terms of enrollment. General eligibility requirements 
+are described in the Academic Regulations, section L, Special Academic 
+Arrangements, “Simultaneous Award of the Bachelor's and Master's Degrees.” Speciﬁc 
+requirements for the combined degree in Computer Science are as follows:
+1.Candidates must satisfy the Yale College requirements for the B.S. degree in 
+Computer Science.
+2.At the end of their ﬁfth term of enrollment, candidates must have earned at least 
+nine of their Computer Science required course credits, which together with three 
+additional Computer Science required course credits, satisfy the requirements for 
+the B.S. in Computer Science. Candidates must also have achieved A grades (only 
+A, not A-) in at least three-quarters of these courses.
+3.Candidates must also complete eight graduate courses from the approved list, up 
+to two of which may, with the permission of the DUS and the director of graduate 
+studies, also be applied toward completion of the B.S. degree. At most one of these 
+eight courses may be CPSC 6920 . All eight graduate courses must be completed 
+in the ﬁnal four terms of enrollment, and at least six of them must be completed 
+in the ﬁnal three terms of enrollment.
+Credit/D/Fail/uni2002No course taken Credit/D/Fail may be applied toward the requirements 
+of the major. All courses in the major must be taken for a letter grade.
+Outside credit/uni2002Courses taken at another institution or during an approved summer or 
+term-time study abroad program may count toward the major requirements with DUS 
+approval.
+Senior Requirement
+In the senior year, students must take CPSC 4900 , an independent project course, in 
+which a student selects an adviser to conduct original research with substantial work 
+in a subﬁeld of computer science. With permission of the DUS, students may enroll 
+in 4900 more than once or before their senior year.
+Advising
+All Computer Science majors in the sophomore, junior, and senior years should review 
+their programs with their class advisers and the DUS. Students majoring in Computer 
+Science are advised to complete CPSC 2010  and 2230 by the end of their sophomore 
+year.
+Electives The ﬁeld of computer science has broadened substantially in the last 
+few decades and the Computer Science department advises its majors to choose 
+intermediate and advanced electives covering the breadth of computer science, 
+including theoretical computer science; computer systems and languages (e.g., 
+database, networking, operating systems, programming languages, and systems 
+security); and computer applications (e.g., artiﬁcial intelligence, computer graphics, 
+computer vision, human-computer interactions, machine learning, natural language 
+processing, and robotics).
+The Computer Science department encourages interdisciplinary study in which 
+computer science plays a major role. Advanced courses in other departments that Computer Science          221
+involve concepts from computer science and are relevant to an individual program may, 
+with permission of the DUS, be counted toward the requirements, but no more than 
+two such courses may be counted toward the B.S., and no more than one toward the 
+B.A.
+Students interested in using computers to solve scientiﬁc and engineering problems 
+are advised to take CPSC 4371  as well as computational courses oﬀered in Applied 
+Mathematics and in Engineering and Applied Science.
+The core mathematical background necessary to complete the Computer Science major 
+is provided in CPSC 2020 . However, many advanced courses in graphics, computer 
+vision, neural networks, and numerical analysis assume additional knowledge of linear 
+algebra and calculus. Students who plan to take such courses as electives and who are 
+unsure whether they have the appropriate mathematical background are encouraged to 
+take MATH 2220  or 2250, MATH 2260 , and MATH 1200 .
+Typical programs For students who already know how to program, typical B.S. 
+programs starting in the ﬁrst and sophomore years are indicated below. For typical B.A. 
+programs, two of the electives would be omitted.
+First-Year Sophomore Junior Senior
+CPSC 2010 CPSC 2020 and 
+CPSC 3230Two electives CPSC 4900
+CPSC 2230 CPSC 3650 or 3660 Two electives One elective
+One elective
+ Sophomore Junior Senior
+CPSC 2230 CPSC 3650 or 3660 Two electives
+CPSC 2010 CPSC 3230 CPSC 4900
+CPSC 2020 Two electives Two electives
+SUMMARY OF MAJOR REQUIREMENTS
+Prerequisites/uni2002None
+Number of courses/uni2002B.S.—12 term courses taken for letter grades (incl senior project);
+B.A.—10 term courses taken for letter grades (incl senior project)
+Speciﬁc courses required/uni2002B.S. and B.A.—CPSC 2010 ; CPSC 2020  or MATH 2440 ;
+CPSC 2230 ; CPSC 3230 ; and CPSC 3650  or 3660.
+Distribution of courses/uni2002 B.S.—6 addtl intermediate or advanced Comp Sci courses;
+B.A.—4 addtl intermediate or advanced Comp Sci courses
+Substitution permitted/uni2002Advanced courses in other depts, with DUS permission
+Senior requirement/uni2002Senior project (CPSC 4900 )
+Certiﬁcate in Programming
+Certiﬁcate director: Ozan Erat, DL 423; cpsc.yale.edu
+The Certiﬁcate in Programming prepares students to program computers in support 
+of work in any area of study. While the certiﬁcate does not provide the grounding in 222            Yale College Programs of Study 2025–2026
+theory and systems that the computer science majors do, it does provide a short path 
+to programming literacy that can be completed in a span of four terms. Majors in 
+Computer Science, and in the joint programs with Economics, Electrical Engineering, 
+Mathematics, and Psychology, or in Computing and the Arts may not pursue the 
+Certiﬁcate.
+Refer to the Computer Science website for more information.
+Prerequisite
+The prerequisite for the Certiﬁcate is an introductory programming course, CPSC 1100 ,
+1001, S115 or successful completion of an AP Computer Science course.
+Requirements of the Certiﬁcate
+See Links to the attributes indicating courses approved for certiﬁcate requirements.
+Students may not use any of the ﬁve required courses, indicated below, to satisfy the 
+requirements of any major or other certiﬁcate. If such a course is required for another 
+program, the student must substitute another course from the same category or a more 
+advanced one for the Programming Certiﬁcate. No course may be used to satisfy more 
+than one of the ﬁve required courses.
+Programming/uni2002One from CPSC 2010  or CPSC 2000
+Data structures  CPSC 2230
+Advanced programming/uni2002One from CPSC 3270  or CPSC 3230
+A programming/uni2002elective/uni2002A CPSC course with CPSC 2230  as a listed or implied 
+prerequisite and a primary focus on programming (such as CPSC 4180 , 4210, 4230,
+4240, 4330, CPSC 4381 , 4390, 4460, or 4780) or a second course that satisﬁes the 
+advanced programming requirement
+An applications or algorithms elective  Either a programming in context course that 
+requires signiﬁcant programming (such as CPSC 3340 , 3760, 4310, 4320, 4740, 4770,
+4790, or LING 3800 ) or a course in algorithms (such as CPSC 3650  or 3660)
+Credit/D/Fail/uni2002No course taken Credit/D/Fail may be applied toward the requirements 
+of the certiﬁcate.
+Advising
+Ozan Erat from the Department of Computer Science advises students pursuing the 
+Certiﬁcate. Exceptions to the requirements, other than the substitution of a more 
+advanced course for a required one, are limited.
+Summary of Requirements 
+Prerequisite CPSC 1100 , 1001, S115 or AP Computer Science course
+Number of courses/uni20025 term courses
+Speciﬁc courses required   CPSC 2010  or 2000; CPSC 2230 ; CPSC 3270  or 3230
+Distribution of courses   2 electives, as speciﬁedComputer Science          223
+FACULTY OF THE DEPARTMENT OF COMPUTER SCIENCE
+Professors/uni2002Dana Angluin ( Emeritus), James Aspnes, *Dirk Bergemann, Abhishek 
+Bhattacharjee, Julie Dorsey, Joan Feigenbaum, Michael Fischer, David Gelernter, *Mark 
+Gerstein, Theodore Kim, †Vladimir Rokhlin, Holly Rushmeier, Brian Scassellati, 
+Martin Schultz (Emeritus),  Zhong Shao, Avi Silberschatz, †Daniel Spielman, Nisheeth 
+Vishnoi, Y. Richard Yang, Lin Zhong, †Steven Zucker
+Associate Professors Yang Cai, Smita Krishnaswamy, Charalampos 
+Papamanthou, Ruzica Piskac, Robert Soulé
+Assistant Professors/uni2002*Kim Blenman, Arman Cohan, Yongshan Ding, Benjamin Fisch, 
+Tesca Fitzgerald, Anurag Khandelwal, Quanquan Liu, Daniel Rakita, Katerina Sotiraki, 
+Marynel Vázquez, Andre Wibisono, Alex Wong, Rex Ying, Manolis Zampetakis, Fan 
+Zhang
+Senior Research Scientists/uni2002Robert Bjornson, Andrew Sherman
+Senior Lecturers/uni2002James Glenn, Scott Petersen, Michael Shah, Stephen Slade
+Lecturers/uni2002Timothy Barron, Andrew Bridy, Xiuye (Sue) Chen, Ozan Erat, Jay Lim, 
+Dylan McKay, Cody Murphey, Sohee Park, Brad Rosen, Inyoung Shin, Alan Weide, 
+Cecillia Xie 
+*A secondary appointment with a primary aﬃliation in another department or school.
+†A joint appointment with primary aﬃliation in another department or school.
+For a complete list of Computer Science Department personnel, visit the department 
+website.

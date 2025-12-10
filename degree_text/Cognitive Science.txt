@@ -1,0 +1,124 @@
+208            Yale College Programs of Study 2025–2026
+Cognitive Science
+Director of undergraduate studies: Tyler Brooke-Wilson
+(tyler.brooke.wilson@yale.edu), 102 C, 432-1699; www.yale.edu/cogsci
+Cognitive science explores the nature of cognitive processes such as perception, 
+reasoning, memory, attention, language, decision making, imagery, motor control, and 
+problem solving. The goal of cognitive science, stated simply, is to understand how 
+the mind works. Cognitive science is an inherently interdisciplinary endeavor, drawing 
+on tools and ideas from ﬁelds such as psychology, computer science, linguistics, 
+philosophy, economics, and neuroscience. Approaches include empirical studies of the 
+ontogenetic and phylogenetic development of cognitive abilities, experimental work 
+on cognitive processing in adults, attempts to understand perception and cognition 
+based on patterns of breakdown in pathology, computational and robotic research that 
+strives to simulate aspects of cognition and behavior, neuroscientiﬁc investigations 
+of the neural bases of cognition using neural recording and brain scanning, and the 
+development of philosophical theories of the nature of mind.
+Prerequisite
+An introductory survey course, CGSC 1100, is normally taken by the end of the fall 
+term of the sophomore year and prior to admission to the major.
+Requirements of the Major
+Students are held to the requirements that were in place when they declared their 
+major. However, with approval from the DUS, the following requirements, updated 
+for the academic year 2025– 2026, may be fulﬁlled by students who declared the major 
+in a prior term./uni2002
+See Links to the attributes indicating courses approved for Cognitive Science major 
+requirements.
+The requirements of the major for the B.S. and B.A. degrees are the same, except for 
+the senior requirement. Fifteen term courses, for a total of thirteen and one half course 
+credits, are required for the major, including the introductory course and the senior 
+requirement. Each major program must include the elements described below. The 
+particular selection of courses must be approved by the director of undergraduate 
+studies (DUS) in order to assure overall coherence. No course may be used to fulﬁll 
+more than one requirement for the major.
+Breadth requirement/uni2002A breadth requirement introduces students to the subﬁelds of 
+cognitive science. Each major is required to take a course from four of the following six 
+areas:
+1.Computer science: CPSC 2010
+2.Economics and decision making: ECON 2159
+3.Linguistics: LING 1100, LING 1160, 1300, 1179, 2320, 2530
+4.Neuroscience: MCDB 3200, NSCI 3400, PSYC 1600, 2670
+5.Philosophy: PHIL 1126, 1182, 2269, 2270, 2271
+6. Psychology: PSYC 1100, S139E, 1400Cognitive Science         209
+Depth requirement/uni2002Students fulﬁll a depth requirement by completing six courses that 
+focus on a speciﬁc topic or area in cognitive science. The depth courses must be chosen 
+from at least two disciplines, and are typically drawn from the six cognitive science 
+subﬁelds. It may be possible to draw depth courses from other ﬁelds when necessary to 
+explore the student's focal topic, in consultation with the DUS. All six depth courses 
+must be intermediate or advanced; for most disciplines, courses numbered 3000 or 
+above fulﬁll the requirement. With permission of the DUS, up to two directed reading 
+or research courses may count toward the depth requirement.
+Skills requirement/uni2002Because formal techniques are fundamental to cognitive 
+science, one skills course is required, preferably before the senior year. Courses that 
+fulﬁll the skills requirement include CPSC 1001, 2020, LING 2249, PSYC 2670,
+S&DS 1000, 2200,  2300, and S107E. Other courses may fulﬁll this requirement with the 
+permission of the DUS.
+Junior colloquium/uni2002In the junior year, students are required to take CGSC 3950, a half-
+credit colloquium in which majors discuss current issues and research in cognitive 
+science and select a senior essay topic.
+Repeat for credit Only one term of CGSC 4710, 4720, 4730, or 4740 may be offered 
+toward the major.
+Credit/D/Fail/uni2002No course taken Credit/D/Fail may be applied toward the requirements 
+of the major, except with permission of the DUS.
+Outside credit Courses taken at another institution or during an approved summer or 
+term-time study abroad program may count toward the major requirements with DUS 
+approval.
+Senior Requirement 
+In the senior year, students take a full-credit capstone course in which the senior essay is 
+written. Students in the course meet regularly with one another and with the faculty 
+member to discuss current work in cognitive science and their own developing research 
+projects. Students must take this course during their senior year.
+B.S. degree program/uni2002The B.S. degree requires two half-credit courses for one-course 
+credit of empirical research, CGSC 4900 and 4910. These courses are only open to 
+Cognitive Science seniors and receive a letter grade. This normally includes designing 
+an experiment and collecting and analyzing data.
+B.A. degree program/uni2002The B.A. degree requires two half-credit courses for one-course 
+credit of nonempirical research, CGSC 4800 and 4810. These courses are only open to 
+Cognitive Science seniors and receive a letter grade. There are no restrictions on the 
+research format.
+Advising and Application to the Major 
+Students may apply to enter the major at any point after the ﬁrst year. Applications 
+must be submitted online through Qualtrics. Applications must include (1) an official or 
+unofficial transcript of work at Yale, (2) a brief statement of purpose, which indicates 
+academic interests and expected focus within the areas of the Cognitive Science major, 
+and (3) a list of the six upper-level courses that the student plans to take as part of 210            Yale College Programs of Study 2025–2026
+the research focus. The application link and answers to frequently asked questions are 
+available on the program website.
+SUMMARY OF MAJOR REQUIREMENTS
+Prerequisite/uni2002CGSC 1100
+Number of courses/uni200215 term courses, for a total of 13.5 course credits (incl prereq and 
+senior req)
+Speciﬁc course required/uni2002CGSC 3950
+Distribution of courses/uni2002 1 course each in 4 of 6 subﬁelds, as speciﬁed for breadth req; 6 
+courses in a speciﬁc topic or area, as speciﬁed for depth req; 1 skills course, as speciﬁed
+Senior requirement/uni2002B.S.—CGSC 4900 and CGSC 4910; B.A.—CGSC 4800 and
+CGSC 4810
+FACULTY ASSOCIATED WITH THE PROGRAM IN COGNITIVE SCIENCE
+Professors/uni2002Woo-kyoung Ahn (Psychology), Stephen Anderson (Emeritus), Amy 
+Arnsten (School of Medicine), Richard Aslin (Haskins Laboratories), John Bargh 
+(Psychology), Paul Bloom (Emeritus) (Psychology), Hal Blumenfeld (School of Medicine),
+Claire Bowern (Linguistics ), Nicolò Cesana-Arlotti (Psychology), Marvin Chun 
+(Psychology), Veneeta Dayal (Linguistics ), Michael Della Rocca (Philosophy), Ravi 
+Dhar (School of Management), Julie Dorsey (Computer Science ), Melissa Ferguson 
+(Psychology), Robert Frank (Linguistics ), Shane Frederick (School of Management), David 
+Gelernter (Computer Science ), Tamar Gendler (Philosophy), Laurence Horn (Emeritus) 
+(Linguistics ), Marcia Johnson (Emeritus), Christine Jolls (Law School), Dan Kahan 
+(Law School), Frank Keil (Psychology, Linguistics), Joshua Knobe (Philosophy), Gregory 
+McCarthy (Psychology), Nathan Novemsky (School of Management, Psychology), 
+Kenneth Pugh (School of Medicine), Ian Quinn (Music), Holly Rushmeier (Computer 
+Science), Laurie Santos (Psychology), Brian Scassellati (Computer Science, Mechanical 
+Engineering ), Brian Scholl ( Chair) (Psychology), Sun-Joo Shin (Philosophy), Jason 
+Stanley (Philosophy), Zoltán Szabó (Philosophy), Nick Turk-Browne (Psychology), 
+Tom Tyler (Law School), Julie Van Dyke (Haskins Laboratories), Fred Volkmar (School 
+of Medicine), David Watts (Anthropology), Karen Wynn (Emeritus) (Psychology), 
+Gideon Yaﬀe (Law School), Raﬀaella Zanuttini (Linguistics ), Gal Zauberman (School of 
+Management), Steven Zucker (Computer Science, Biomedical Engineering )
+Associate Professors Philip Corlett (School of Medicine), Jason Dana (School of 
+Management), Yarrow Dunham (Psychology), Hedy Kober (School of Medicine), James 
+McPartland (Child Study Center), Maria Piñango (Linguistics )
+Assistant Professors Ryan Bennett (Linguistics ), Steve Chang (Psychology), 
+Philip Corlett (School of Medicine), Julian Jara-Ettinger (Psychology), Julia 
+Leonard (Psychology), Samuel McDougle (Psychology), Al Powers (School of 
+Medicine), Robb Rutledge (Psychology), Marynel Vázquez (Computer Science ), Ilker 
+Yildirim (Psychology)
+Lecturer Daylian Cain (School of Management)
