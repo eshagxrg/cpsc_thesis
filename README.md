@@ -69,7 +69,7 @@ The agent relies on specific external data files to function. Ensure the followi
   * **`degree_text/`**: A folder containing `.txt` descriptions of degree rules (used for RAG context).
   * **`degree_classification_final.ndjson`**: A JSON/NDJSON file containing the structured logic for major requirements.
   * **`master_major_interests.json`**: A JSON file mapping majors to their canonical subfields/interests.
-  * **`course_index_storage_new/`**: (Generated automatically) The code will generate a local vector store here on the first run.
+  * **`course_index_storage_new/`**: (Will be generated automatically) The code will generate a local vector store here on the first run.
 
 **Directory Tree:**
 
